@@ -18,3 +18,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 ## My first test 
+
+$E = mc^2$
+
+$$
+\sum_{i = 1}^n i 
+$$
