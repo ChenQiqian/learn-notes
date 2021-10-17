@@ -23,6 +23,6 @@ jobs:
       - name: Build & Deploy Site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run:
-          chmod +x "./.github/action.sh"
-          "./.github/script.sh"
+        run: | 
+          chmod +x ./.github/action.sh
+          ./.github/action.sh"
