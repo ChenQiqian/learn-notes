@@ -19,6 +19,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## My first test 
 
+```cpp
+#include <cstdio>
+using namespace std;
+
+
+int main(){
+    return 0;
+}
+```
+
 $E = mc^2$
 
 $$

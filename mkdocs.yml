@@ -1,11 +1,33 @@
 site_name: My Docs
+
+nav:
+ - 计算机科学:
+    - 工具:
+      - GitHub: cs/tools/github/index.md
+
 theme:
   name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
 
 
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.superfences
 
 
 # add mathjax support
@@ -14,3 +36,5 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css: 
+  - stylesheets/slates.css
