@@ -1,13 +1,20 @@
-site_name: My Docs
+site_name: 栈底
 
 nav:
- - 计算机科学:
+  - 计算机科学: 
+    - 简介: cs/index.md
     - 工具:
       - GitHub: cs/tools/github/index.md
+  - 物理基础:
+    - 电子学:
+      - 数字电子技术基础: physics\electronics\digital_electronics.md
 
 theme:
   name: material
   language: zh
+  features:
+    - navigation.instant
+    - navigation.tabs
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
@@ -21,6 +28,19 @@ theme:
         name: Switch to light mode
 
 
+plugins:
+    - search:
+    # - encryptcontent: 
+    #     global_password: ""
+    #     title_prefix: '[已加密]'
+    #     summary: '本篇文章已加密'
+    #     placeholder: '请在此输入密码......'
+    #     decryption_failure_message: '密码错误，请重新输入。'
+    #     encryption_info_message: ''
+    #     password_button: True
+    #     password_button_text: '点此解密'
+    #     encrypted_something:
+    #         md-nav md-nav--secondary: [nav , class]
 
 markdown_extensions:
   - pymdownx.arithmatex:
