@@ -5,10 +5,17 @@ nav:
     - 简介: cs/index.md
     - 工具:
       - GitHub: cs/tools/github/index.md
+      - 正则表达式: cs/tools/reg/index.md
+  - 数学基础:
+    - 简介: math/index.md
+    - 线性代数:
+      - 简介: math/linear_algebra/index.md
+      - 技巧: math/linear_algebra/techniques.md
   - 物理基础:
     - 电子学:
-      - 数字电子技术基础: physics\electronics\digital_electronics.md
-
+      - 数字电路: 
+          - 组合逻辑电路: physics\electronics\digital_electronics.md
+          - 时序逻辑电路: physics\electronics\5.md
 theme:
   name: material
   language: zh
