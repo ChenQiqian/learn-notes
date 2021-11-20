@@ -3,19 +3,33 @@ site_name: 栈底
 nav:
   - 计算机科学: 
     - 简介: cs/index.md
+    - 计算机网络理论:
+      - 简介: cs/networking/index.md
     - 工具:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md
   - 数学基础:
     - 简介: math/index.md
+    - 微积分:
+      - 简介: math/calculus/index.md
+      - 复函数: math/calculus/complex_functions.md
     - 线性代数:
       - 简介: math/linear_algebra/index.md
       - 技巧: math/linear_algebra/techniques.md
+    - 概率论:
+      - 简介: math/probability/index.md
+      - 基本概念: math/probability/basic_concepts.md
+      - 常见分布: math/probability/distribution.md
+      - 作业题选摘: math/probability/selected_homework.md
   - 物理基础:
     - 电子学:
+      - 简介: physics\electronics\index.md
       - 数字电路: 
           - 组合逻辑电路: physics\electronics\digital_electronics.md
           - 时序逻辑电路: physics\electronics\5.md
+  - 实用工具:
+    - 简介: tools/index.md
+    - 文献工具: tools/citations.md
 theme:
   name: material
   language: zh
@@ -54,7 +68,12 @@ markdown_extensions:
       generic: true
   - pymdownx.highlight:
       use_pygments: true
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - footnotes
 
 
 # add mathjax support
