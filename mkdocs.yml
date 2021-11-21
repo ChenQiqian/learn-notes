@@ -18,9 +18,17 @@ nav:
       - 技巧: math/linear_algebra/techniques.md
     - 概率论:
       - 简介: math/probability/index.md
-      - 基本概念: math/probability/basic_concepts.md
-      - 常见分布: math/probability/distribution.md
+      - 事件、概率: math/probability/basic_concepts.md
+      - 随机变量: 
+        - 随机变量的定义: math/probability/random_variables.md
+        - 常见随机变量分布: math/probability/distribution.md
+        - 随机变量的数字特征: math/probability/variables_number_feature.md
+      - 应用:
+        - 概率不等式: math/probability/unequalities.md
+        - 极限定理与估计:  math/probability/limitation_theorem.md
+
       - 作业题选摘: math/probability/selected_homework.md
+      - 习题课选摘: math/probability/selected_exercise.md
   - 物理基础:
     - 电子学:
       - 简介: physics\electronics\index.md

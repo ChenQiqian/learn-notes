@@ -6,13 +6,15 @@ window.MathJax = {
         displayMath: [
             ["\\[", "\\]"]
         ],
+        packages: {'[+]': ['boldsymbol']},
         processEscapes: true,
         processEnvironments: true
     },
     options: {
         ignoreHtmlClass: ".*|",
         processHtmlClass: "arithmatex"
-    }
+    },
+    loader: {load: ['[tex]/boldsymbol']}
 };
 
 document$.subscribe(() => {
