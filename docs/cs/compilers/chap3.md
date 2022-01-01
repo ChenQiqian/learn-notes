@@ -22,9 +22,9 @@
 
 原子正则表达式： `'c' = {"c"}` ，`\varepsilon = {""}`
 
-并：$A+B = \{s \mid s \in A \or s\in B\}$ （课件中用的 A ｜ B ）
+并：$A+B = \{s \mid s \in A \vee s\in B\}$ （课件中用的 A ｜ B ）
 
-连续：$AB=\{ab \mid a \in A \and b \in B\}$
+连续：$AB=\{ab \mid a \in A \wedge b \in B\}$
 
 闭包（？）：$A^* = \bigcup_{i\geq 0} A^i$ 
 

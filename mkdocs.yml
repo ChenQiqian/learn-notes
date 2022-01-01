@@ -21,7 +21,9 @@ nav:
     - 简介: math/index.md
     - 微积分:
       - 简介: math/calculus/index.md
-      - 复函数: math/calculus/complex_functions.md
+    - 复变函数: 
+      - 简介: math/complex_functions/index.md
+      - 作业: math/complex_functions/hw.md
     - 线性代数:
       - 简介: math/linear_algebra/index.md
       - 技巧: math/linear_algebra/techniques.md
@@ -35,9 +37,10 @@ nav:
       - 应用:
         - 概率不等式: math/probability/unequalities.md
         - 极限定理与估计:  math/probability/limitation_theorem.md
-
       - 作业题选摘: math/probability/selected_homework.md
       - 习题课选摘: math/probability/selected_exercise.md
+    - 随机过程:
+      - 简介: math/stochastic_processes/index.md
   - 物理基础:
     - 电子学:
       - 简介: physics\electronics\index.md
