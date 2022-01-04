@@ -41,12 +41,13 @@ nav:
       - 习题课选摘: math/probability/selected_exercise.md
     - 随机过程:
       - 简介: math/stochastic_processes/index.md
+      - 题目选摘: math/stochastic_processes/selected_hw.md
   - 物理基础:
     - 电子学:
-      - 简介: physics\electronics\index.md
+      - 简介: physics/electronics/index.md
       - 数字电路: 
-          - 组合逻辑电路: physics\electronics\digital_electronics.md
-          - 时序逻辑电路: physics\electronics\5.md
+          - 组合逻辑电路: physics/electronics/digital_electronics.md
+          - 时序逻辑电路: physics/electronics/5.md
   - 实用工具:
     - 简介: tools/index.md
     - 文献工具: tools/citations.md
