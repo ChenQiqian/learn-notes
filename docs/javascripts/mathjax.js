@@ -7,6 +7,10 @@ window.MathJax = {
             ["\\[", "\\]"]
         ],
         packages: {'[+]': ['boldsymbol']},
+        macros: {
+            R: "{\\bf R}",
+            bm: ["{\\boldsymbol #1}", 1]
+        },
         processEscapes: true,
         processEnvironments: true
     },
