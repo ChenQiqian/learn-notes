@@ -3,6 +3,15 @@ site_name: 小栈
 nav:
   - 计算机科学: 
     - 简介: cs/index.md
+    - 操作系统:
+      - 简介: cs/os/index.md
+      - 操作系统概述: cs/os/chap1.md
+      - 进程: cs/os/chap2.md
+      - 存储管理: cs/os/chap3.md
+      - I/O设备管理: cs/os/chap4.md
+      - 文件系统: cs/os/chap5.md
+      - 操作系统安全: cs/os/chap6.md
+      - 死锁: cs/os/chap7.md
     - 计算机网络理论:
       - 简介: cs/networking/index.md
     - 编译原理:
