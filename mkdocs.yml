@@ -1,4 +1,4 @@
-site_name: 小栈
+site_name: Minimal Stack
 
 nav:
   - 计算机科学: 
@@ -26,6 +26,10 @@ nav:
       - 正则表达式: cs/tools/reg/index.md
       - ANTLR:
         - 简介: cs/tools/antlr/index.md
+  - 编程语言:
+    - 简介: programlang/index.md
+    - Typescript:
+      - 简介: programlang/ts/index.md
   - 数学基础:
     - 简介: math/index.md
     - 微积分:
