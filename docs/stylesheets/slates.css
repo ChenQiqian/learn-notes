@@ -5,7 +5,7 @@
 /* Slate's hue in the range [0,360] - change this variable to alter the tone
     of the theme, e.g. to make it more redish or greenish. This is a slate-
     specific variable, but the same approach may be adapted to custom themes.*/
---md-hue: 240;
+--md-hue: 200;
 
 /*Default color shades*/
 

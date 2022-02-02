@@ -1,8 +1,13 @@
 site_name: Minimal Stack
+repo_url: https://github.com/ChenQiqian/learn-notes
+repo_name: ChenQiqian/learn-notes
+edit_uri: ""
 
 nav:
   - 计算机科学: 
     - 简介: cs/index.md
+    - 数据库:
+      - 简介: cs/db/index.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md
@@ -73,6 +78,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
+      primary: red
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -84,6 +90,10 @@ theme:
 
 
 plugins:
+    - git-revision-date-localized:
+        type: iso_datetime
+        fallback_to_build_date: true
+        enable_creation_date: true
     - search:
     # - encryptcontent: 
     #     global_password: ""
@@ -98,16 +108,39 @@ plugins:
     #         md-nav md-nav--secondary: [nav , class]
 
 markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       use_pygments: true
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - footnotes
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 
 # add mathjax support
