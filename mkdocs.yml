@@ -8,6 +8,8 @@ nav:
     - 简介: cs/index.md
     - 数据库:
       - 简介: cs/db/index.md
+      - SQL 语句: cs/db/sql.md
+      - 数据库的存储: cs/db/storage.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md
