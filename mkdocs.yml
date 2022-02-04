@@ -9,7 +9,8 @@ nav:
     - 数据库:
       - 简介: cs/db/index.md
       - SQL 语句: cs/db/sql.md
-      - 数据库的存储: cs/db/storage.md
+      - 数据库的存储方案: cs/db/storage.md
+      - 数据库的存储管理: cs/db/buffer.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md

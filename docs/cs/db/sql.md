@@ -140,3 +140,43 @@ SELECT * from cte1, cte2;
 
 `||` 连接两个字符串 th
 
+## 数据表示
+
++ 整数: `INTEGER/BIGINT/SMALLINT/TINYINT`
++ 非整数/小数: `FLOAT/REAL` v.s. `NUMERIC/DECIMAL` (IEEE-754)
++ 字符串: `VARCHAR/CARBINARY/TEXT/BLOB`
++ 时间: `TIME/DATE/TIMESTAMP`
+
+
+过长的数据会用单独的 overflow page 来存。
+
+有的还可以存很大很大的文件，`blob` ，但是理论上就会缺少许多保护。
+
+以上都会用指针。
+
+## 元数据(Schema)
+
+可以如此查询表头：
+
+
+=== "SQL-92"
+    ```sql 
+    SELECT *
+    FROM INFORMATION_SCHEMA.TABLES
+    WHERE table_catalog = '<db name>'
+    ```
+
+=== "Postgres"
+    ```
+    \d student
+    ```
+
+=== "mysql"
+    ```
+    DESCRIBE student;
+    ```
+
+=== "sqlite"
+    ```
+    .schema student
+    ```

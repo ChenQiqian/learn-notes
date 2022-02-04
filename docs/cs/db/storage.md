@@ -1,20 +1,6 @@
-# 数据库的存储
+# 数据库的存储方案
 
 数据库所有的数据都存储在磁盘上。
-
-## 和 OS 的关系
-
-因为 OS 在管理存储，Database 的瓶颈也在于磁盘 IO，所以 Database 和 OS 之间的关系需要保持好，不能让 OS 插手太多 Database 的工作
-
-### 使用 OS 的存储
-
-如果使用 `mmap` 沟通内存和磁盘，在缓存和 page fault 等方面可能会出问题。
-
-可以使用以下系统调用修补。
-
-+ `madvise`: 告诉 OS 计划访问的内存范围
-+ `mlock`: 告诉 OS 不要将这部分虚拟内存 swap 掉。
-+ `msync`: 告诉 OS 把 mmap 映射内存的内容 flush 到 disk 中。
 
 ## Storage Manager
 
@@ -30,17 +16,15 @@ Database 的 Page 是存取的的单位。大小为 512B - 16KB。
 
 组织 Page 的文件。一个 Database 可能不止一个 Heap File。
 
-
 两种表现形式：
 
 1. 链表
-    1. 每个 Heap 有一个 Header Page，指向 Free Page 和 Data Page
-    2. Page 会维护一个双向链表
+   1. 每个 Heap 有一个 Header Page，指向 Free Page 和 Data Page
+   2. Page 会维护一个双向链表
 2. 页面目录
-    1. 有一个特殊的 Page，维护所有的 Page 的信息（location, free slots）
+   1. 有一个特殊的 Page，维护所有的 Page 的信息（location, free slots）
 
-
-## Page 
+## Page
 
 聚焦到一个 Page 上面， Page 要维护 Tuple。
 
@@ -64,7 +48,7 @@ Slot 记录 Tuple 的起始位置。
 
 删除和增加的时候都利用 Slot 进行。
 
-### Page Layout: Log Structured 
+### Page Layout: Log Structured
 
 只维护 log 记录。
 
@@ -86,3 +70,10 @@ Data: 以 CREATE 语句中的顺序依次存储。
 
 “pre join”，如果有 foreign key（必须要属于其他的某个表中的元素）。
 
+## Storage Model
+
+|     Name     |     N-ary Storage Model(NSM)     | Decomposition Storage Model(DSM) |
+| :-----------: | :-------------------------------: | :------------------------------: |
+|  Description  |           按照行来存储           |           按照列来存储           |
+|  Advantages  | 快速的插入<br />整个 Tuple 的读取 |  读取比较高效<br />可以比较压缩  |
+| Disadvantages |      大规模读取引入无关信息      |        单点查询和插入较慢        |
