@@ -71,6 +71,9 @@ nav:
       - 数字电路: 
           - 组合逻辑电路: physics/electronics/digital_electronics.md
           - 时序逻辑电路: physics/electronics/5.md
+  - 英语备考:
+    - 雅思口语:
+      - Part1: ielts/speaking/part1.md
   - 实用工具:
     - 简介: tools/index.md
     - 文献工具: tools/citations.md
