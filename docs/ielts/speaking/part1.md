@@ -137,3 +137,132 @@
     I would like to decorate my room with warm colour, like wooden furniture and yellow light.
 
     So colder colores like green and blue don't blend into my room, and them would make me feel not happy and solitary, being separate from the world.
+
+## Getting lost
+
+???question "Have you ever got lost when you visited a new place?"
+    No, I hardly get lost when I visited a new place. 
+    
+    When I get to a new place, I will use my map app to find the way.
+
+    And I usually make use of the geography knowledge that I learned in my middle school, like find the direction by the sun the building nearby.
+
+???question "Do you find it difficult to get to new places without using a map?"
+    No, actually, at most times I can easily get to new places even without a map. 
+
+    I can remember routes very well, and I use  the combination of direction and distance.
+
+    Also, I will ask locals for some help, and then I can get the direction.
+
+???question "How do you feel when you get lost somewhere?"
+    On the very rare occasions I do get lost somewhere, I will be calm and rational.
+
+    Getting lost is always temporary, and eventually I will recognize a landmark or meet a person who can point a way back.
+
+    So there is no point getting scared or anxious.
+
+???question "Have you ever helps someone who get lost?"
+    Yes, in the school campus.
+
+    There are fresh man in school, and visiting scholars all the time.
+    
+    I can easily distinguish them and it is quite easy to see that they are not quite familiar with the school.
+
+    So I would always offer them with my help.
+
+## Pet and animals
+
+???question "Would you like to have pets in the future?"
+    Yes! I would like to have pets in the future.
+
+    Since I was a young child, I loved animals so much, but I was never allowed to have a pet as a child because my parents didn't want them.
+
+    However, in the future when I start work, I want to have a cat.
+
+???question "What is the most popular animal in China?"
+    === "panda"
+        The most popular animal in China has to be the panda. Pandas are almost the symbol of China.
+
+        Pandas have cute appearance and sweet "personality", so they are beloved in China.
+
+    === "cat"
+        I believe the most popular animal in China is definitely the cats.
+
+        They have cute appearance, and you can see them everywhere in social media.
+
+        
+
+???question "Have you ever had a pet before?"
+    Unfortunely, despite the fact that I really like pets, I have never had a pet before. 
+    
+    Currently I'm away from home, living at school, and I'm planning to go abroad for a master or phd degree.
+
+    So sadly, even in near future, I still don't have the chance to keep a pet myself.
+
+
+???question "Where do you prefer to keep your pet, indoors or outdoors?"
+    I believe that pets should be allowed indoors!
+    
+    If I have a cat one day, I would definitely let my cat stay indoors.
+
+    For small and cute pets like cat, it is totally no question to keep them inside.
+
+    Maybe I will even let them stay on my bed! 
+
+## Public garden and parks
+
+???question "Did you go to public parks and gardens when you were a child?"
+    Yes, I spent a lot of time in public parks and gardens when I was a child. 
+    
+    On weekends, my family often liked to go to the park, especially when the weather was nice.
+
+    We would walk, and ride multi-person bicycle. That were really lovely times.
+
+???question "Do you spend much time in parks and gardens now?"
+    I try to spend a little times in parks and gardens now, mostly in school's gardens.
+
+    Surrounded by green plants and birds, I get the feel of peace.
+
+    I think it is a effective way to keep health and motivated in nowadays busy life.
+
+
+???question "How have parks changed today compared to the time when you were a child?"
+    Parks have changed a lot nowadays compared to when I was a child.
+
+    In my child, I remember the park that I usually go to was full of yellow plants and broken buildings.
+
+    Now, thanks to the investment from the government, plants are more healthy, and more facilities[fəsɪlɪtiz] are built to make parks a better place to relax ourselves.
+
+???question "Would you prefer to play in a personal garden or public garden?"
+    To be honest, I have no personal garden.
+
+    So, the only place which I can play in is public garden.
+
+    In public garden, you never know who you're going to meet, which is very interesting and exciting.
+
+## Weather
+
+???question "Does the weather change a lot in your country?"
+    Yes, the weather changes a lot in my part of the country.
+
+    Beijing is in the north part of China, which has very cold winters but temperate summers.
+
+    So, as a result, there will be drastical temperature change in spring and in autumn.
+
+???question "What kind of weather do you like most?"
+    I think a sunny day is a perfect weather.
+
+
+???question "Would you like to live in a place that has very different weather from where you live?"
+    No, I have no desires to live in a place that has very different weather from where I live.
+
+    At the moment I have the perfect weather which is sunny and warm.
+
+    It could be really uncomfortable and unworthy for me if I have to deal with the cold and bad weather.
+
+???question "Do you think people who live in a place with good weather are happier?"
+    Of course they are.
+
+    People's mood is affected greatly by the weather, which is proved by scientific research.
+
+    In my own experience, when I can see the sun, I'm usually in a better spirit[spɪrɪt] that I can work happier and more effectively.
