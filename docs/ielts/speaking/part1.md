@@ -266,3 +266,148 @@
     People's mood is affected greatly by the weather, which is proved by scientific research.
 
     In my own experience, when I can see the sun, I'm usually in a better spirit[spɪrɪt] that I can work happier and more effectively.
+
+## Concentration
+
+???question "When is it particularly important for you to concentrate?"
+    I think it is particularly important for me to concentrate when I'm studying.
+
+    There are many important exams I have taken in my life.
+
+    From the entrance exams of universities to the final exams I have to take when I study my degree.
+    
+    These exams will all require that I concentrate very hard while I study.
+
+???question "Can you concentrate in a noisy environment?"
+    I do not find it difficult to concentrate in a noisy environment.
+
+    I'm very good at focusing and drowning out the distractions of my environment.
+
+    When I'm focusing on a task, it is almost like I stop the world around me.
+
+    So, I don't even notice noisy environments when I'm trying to concentrate.
+
+???question "What do you do to help you concentrate?"
+    Concentratation is like fight with oneself, all I can do is to help myself.
+
+    The first thing I do is removing any distractions from my environment.
+
+    For example, I will make sure that my phone is away from my desk, then there is no risk of being distracted by these things.
+
+    Furthermore, I always ensure I have a good physical condition before I'm trying to do something important, so that thirsty or hungry don't have the chance to distract me.
+
+???question "Do you always pay attention in your lessons at school?"
+    To be frank, no at all. 
+
+    The quality of university's courses is very uneven.
+
+    Personally, I just find most lessons very boring and dull, so I often get distracted and stop paying attention. 
+
+    Sometimes, it happens to me that learning by myself after class can achieve a much better score.
+
+## Science
+
+???question "When did you start to learn about science?"
+    I started to learn science from a very early age, even before I went to school!
+
+    My father once bought me a encyclopedia[ɛnsaɪkləuˈpiːdɪə], and I personally take that book as my earliest science education.
+
+    To be honest, I still enjoy that feeling of imagining I'm a astronaut, traveling between stars.
+
+???question "Which science subject is interesting to you?"
+    The science subject I am most interested in is physics, particularly astrophysics.
+
+    Nothing fascinates me as much as astrophysics and outer space.
+
+    I really like learning about the cosmos and distant steller systems.
+
+    The universe is so sexy!
+
+???question "Is it easy for you to learn science subjects?"
+    I find it quite easy to learn science subjects.
+
+    In my opinion, learning something is easy if yu have passion. 
+
+    Science, which is full of wonders, can surely light me up, giving me the passion even from learning itself.
+
+???question "What kinds of science subjects are closely related to our daily lives?"
+    I think maybe geography is the most closely related subjects to out daily lives.
+
+    Everyday, when you just look up at the sky, and there is geography knowledge about the weather!
+
+    When you look down at the ground, the building, the soil, all that elements need geography, more precisely, geological knowledge.
+
+    I think this is basic knowledge, you cannot have such a life without geography, as long as you are on this earth! 
+
+## Shoes
+
+???question "Do you like buying shoes? How often?"
+    I don't really like buying shoes. 
+    
+    I only buy shoes for practical reasons; I'm not really into the fashion.
+
+    Therefore, I find buying shoes a little stressful because I'm not sure which shoes look good and what fit me well.
+
+    So, I only buy shoes when my old shoes are broken and I need a new pair.
+
+???question "Is it easy for you to find shoes that you want to buy?"
+    Yes, I find it easy to buy shoes that I want to.
+
+    I focus on the brand, like Nike, Adidas, and my favourite: Mizuno. 
+
+    And because you know, running is part of my life, so the types of shoes are limited to running shoes.
+
+    After such a process, there are only few choices. So just a piece of cake.
+
+???question "Would you ever spend a lot of money on shoes?"
+    No, actually.
+
+    So, I only buy shoes when my old shoes are broken and I need a new pair.
+
+    And, I don't care about fashion or collecting different shoes.
+
+    All I want is a pair of shoes with good performance and a relatively worthwhile price.
+
+    So I wouldn't spend a lot of money on them.
+
+???question "Which do you prefer, fashionable shoes or comfortable shoes?"
+    You know, as a runner, I completely  prefer comfortable shoes to fashionable shoes. 
+
+    I think it is ridiculous to wear a pair of shoes that hurts you feet, especically when you are running.
+
+    The only standard for a good shoes is how it can protect our feet.
+
+## Headphones
+
+???question "How often do you use headphones?"
+    I use headphones all the time!
+
+    I love to listen to music and do so at any opportunity.
+
+    So I use headphones when I'm commuting around my town, when I am working in library and even I was relaxing at home.
+
+    Nowadays, they make powerful headphones with incredible sound quality, so I enjoy listening to music much more!
+
+???question "Are headphones popular in your country?"
+    Yes, headphones are popular in my country.
+
+    People consider headphones an essential gadget to have in modern world.
+
+    We take our smartphones everywhere, and so does we take our headphones to listen to whether music or video program.
+
+    You can see that almost everyone in the subway wears headphones, watching their phones.
+
+???question "Are headphones comfortable to wear?"
+    While, that depends.
+
+    In my opinion, head-wear types of the headphones are too heavy so wearing them for a long period will be really tired for me.
+
+    However, the type of in-ear headphones, like airpods from apple, is a lot lighter, so they are a lot more suitable to wear for me.
+
+
+???question "In what conditions you won't yse headphones?"
+    I won't use headphones when I am hanging out with my friends or family.
+
+    I think using headphones in these situations are incredibly rude and it is something that I wish never happen to myself.
+
+    It is, you know, a respection to our friend, our family, and it just come from these daily stuffs.
