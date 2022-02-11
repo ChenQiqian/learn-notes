@@ -411,3 +411,151 @@
     I think using headphones in these situations are incredibly rude and it is something that I wish never happen to myself.
 
     It is, you know, a respection to our friend, our family, and it just come from these daily stuffs.
+
+## Handwritings
+
+???question "Do you prefer handwriting or typing?"
+    Personally, I prefer typing to handwriting.
+
+    I think typing is far more effective than handwriting.
+
+    For one, it is much quicker way of writing and also it is always legible, especially when one has a poor handwritings.
+
+    Also, I'm a programmer now, so I enjoying typing a lot!
+
+???question "Do you writing more now than you do when you are a child?"
+    I write less than I was a child.
+
+    When I was younger, I had to write my everyday homework with pen and paper.
+
+    The electronic devices were strictly prohibited in schools, so notes had to be taken by hand also.
+
+    However, nowadays in university, I can hand in all my homework in digital form, so there is no need to write.
+
+???question "What is the difference between handwriting and using a keyboard?"
+    I would say there are so many differences, but the biggest one must be the way you compose.
+
+    I would like to take Chinese for example.
+
+    When using keyboard, we are imagining sounds and spellings, so it is like you are recording what you have said.
+
+    However, when writing, we are imagining the shape of the character, so I would even say that we are drawing. It leads to a more beautiful way of composing.
+
+???question "What are some of the things that require handwriting?"
+    I think handwriting represents your identity and your respectation.
+
+    So, signing is one of the places that you use your handwriting to prove the identity.
+
+    Also, when we want to show that we care adn value the person you're writing to, handwriting is our only choice.
+
+### Spending time with others
+
+Keyword: talking
+
+???question "What do you most enjoy doing with other people?"
+    I prefer activites that I can freely talk with other people.
+
+    I believe talking is the most effective way to socialize, and to increase our mutual understanding.
+
+    So, I don't really like such things like watching movies in cinema, or listening to a concert.
+
+    I really want to talk!
+
+???question "Do you have enough time for doing things with your friend?"
+    Yes, I have plenty of time to stay with my friends.
+
+    I will invite them for dinner almost every week, and I can talk to them, learning what they are working at.
+
+    Even I have a very stressful study life, I still consider my friends as the most precious part in my life, so there is no problem of lacking time.
+
+???question "Would you prefer to study alone or with others?"
+    Personally, I would like to study with others.
+
+    Studying is like fighting a war, and get a victory  alone is unreal.
+
+    We must fight together, and my friends knows that too.
+
+    So, I enjoy studying with my friend, and during studying we can communicate with each other.
+
+???questiion "Would you like to do a job that involves working with a lot of people?"
+    As I have mentioned, I'm a very outgoing and socialable person.
+
+    I extremely like talking with other people, and I think I can receive energy from them, by deep conversations.
+
+    Solitude sounds horrible to me.
+
+## TV programs
+
+Keyword: documentary programs
+
+???question "What kind of TV programs do you enjoy watching?"
+    I enjoy watching documentaries.
+
+    I like to spend my time without wasting them, and watching documentaries is like learning through activities.
+
+    However, some popular programmes like reality shows are kind of shows that only wants to make people watch them. 
+
+    Watching them is just a wasting of time and life.
+
+???question "Did you watch too much TV when you were a child?"
+    Well, I did not watch too much TV when I was a child.
+
+    My parents are quite strict with me, and they only allow me to watch tv at certain times.
+
+    For example, I couldn't watch TV before I finished my homework;
+
+    and I have to earn the time of watching TV by doing chores at home.
+
+???question "Do you think children nowadays watch too much TV?"
+    Of course, at least for some of them.
+
+???question "What kinds of program would you like to see more of on televisions?"
+    I would like to see more educational programs on television.
+
+    For example, documentaries.
+
+    Some of my favourite things are nature documentaries and history documentaries.
+
+    They are both entertaining and educational.
+
+    I don't feel like I'm wasting my life, and watching them can enrich my life with more knowledge.
+
+## Mirrors
+
+Keyword: Appearance! Clothes!
+
+???question "How often do you look at yourself in a mirror?"
+    I look at myself in mirror very often, several times a day, I guess.
+
+    I'm quite self-conscious about my appearance, and I enjoy being neat and clean.
+
+    Therefore, I usually use mirrors to do a self-check.
+
+???question "Have you ever bought a mirror?"
+    Yes, certainly.
+
+    I bought a full-length mirror and put it in my dormitory in school.
+
+    So, I'm able to check my daily outfit, and improve my appearance bit by bit.
+
+???question "Would you buy clothes without checking yourself in a mirror first?"
+    NO!!!
+
+    I would never buy clothes without checking myself in a mirror.
+
+    It is very important to me that the clothes fit me well, and the only way to make sure is to watching by myself.
+
+    So mirrors are quite necessary when buying clothes.
+
+???question "Do you think mirrors are a good way to decorate a room?"
+    Yes, of course!
+
+    Firstly, mirror is very useful in our daily lives, when we are choosing clothes.
+
+    Secondly, mirror in a right position can make small room seems larger.
+
+    What's more, mirror itself can come in different shapes and size, which is a beautiful decoration.
+
+  
+
+    
