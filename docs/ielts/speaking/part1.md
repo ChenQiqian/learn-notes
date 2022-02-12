@@ -477,7 +477,7 @@ Keyword: talking
 
     So, I enjoy studying with my friend, and during studying we can communicate with each other.
 
-???questiion "Would you like to do a job that involves working with a lot of people?"
+???question "Would you like to do a job that involves working with a lot of people?"
     As I have mentioned, I'm a very outgoing and socialable person.
 
     I extremely like talking with other people, and I think I can receive energy from them, by deep conversations.
@@ -558,4 +558,123 @@ Keyword: Appearance! Clothes!
 
   
 
+## Taking photos
+
+Keyword: Recording family and friend life.
+
+???question "How oftem do you take photos?"
+    I believe photos a ways to record life, like diary.
+
+    So I take photos every day using the camera on my phone, in order to remember my wonderful life.
+
+    I usually take photos with my friends, and take photos when I meet beautiful scenaries.
+
+???question "Do you like taking photos of yourself?"
+    I would like to take selfies! 
     
+    I often take selfies on days when I look good or when I'm wearing an interesting outfit.
+
+    I like to keep a record of how I looked so I take a lot of photos of myself and enjoy doing so.
+
+???question "Do you have a favourite familty photo?"
+    Yes, I have.
+
+    It is photo when my grand grandma is still alive, and it reminds me of love and family traditions.
+
+    And this is the only photo that contains four generations of my family members, so I cherish it a lot.
+
+???question "Would you like to learn how to take better photos?"
+    Well, I would definitely want to do that. 
+
+    My girlfriend always hopes that she can be more beautiful in the photos, especially when we travel together.
+
+    From my own aspects, I really travel all over the country and, if possible, all over the world.
+
+    So a good skill on taking photos can help me bring back more memories.
+
+
+## Car
+
+Keyword: high-speed railway
+
+???question "Did you enjoy travelling by car when you were a child?"
+    No, I didn't enjoy travelling by car when I was a child.
+
+    First, travelling by car was kind of slow, comparing to travelling by train, especially high-speed railway.
+
+    And secondly, I liked to walk during trip, so staying in a seat for several hours made me so uncomfortable.
+
+
+???question "Would you generally prefer to be a driver or a passenger in a car?"
+    Personally, I prefer being a passenger.
+
+    When I am in the car, I like controlling music, appreciating scenaries, and also sleeping to regain my energy.
+
+    Driving is much too tired for me, and it need lots of focus, which mean I cannot do anything I want.
+
+???question "How important is the colour of a car to you?"
+    There is no imortantce attached to the colour I think.
+
+    The essential function of a car is transporting, and I don't really care whether the car is black or white.
+
+    The quality of the car, such as the fuel efficiency, the noise in the car, is more important for me.
+
+???question "What type of car would you most like to have in the future?"
+    I think,  electronic cars may be my choice, like Tesla.
+
+    These electronic cars have a better controlling ability, and they can help to save the environment.
+
+    Perhaps, having a electronic car will become a fashion in the future.
+
+## Websites
+
+???question "What kinds of websites do you use most often?"
+    The website I use most often are my email and research website. 
+    
+    I want to go to the most forward part of the acdemic world, so websites are necessary for me to follow other researchers' work.
+    
+    Like google scholar, I often search for papers there.
+
+???question "Do you prefer to get information from websites or books?"
+    I prefer to get information from books.
+
+    Conducting search on the internet is so quick and easy.
+
+    And when I find useful resources, I can simply use copy and paste to put the in my computer.
+
+???question "Does your favourite website look the same now as when you first used it?"
+    No, actually.
+
+    My favourite website is ZHIHU, which is a platform like Quora, and you can ask questions on it.
+
+    When I first used it in 2014, there are only texts on the website, and now there are so many pictures and videos in that website.
+
+    What's more, the website has introduced some new concepts of designing, so general styles have totally changed.
+
+## Street Market
+
+???question "What are the best things to buy at street markets in your country?"
+    The best thing to buy at street markets in China must be food and drinks!
+
+    In China, you can find food and drinks almost everywhere, and many of them are so delicious.
+
+    It's a great pleasure to have a snack after visiting or justing on a street for a long time.
+
+???question "When was the last time you went to a street market?"
+    Today's morning when I was coming to this exam. 
+    
+    I go to a coco, and get a bottle of milktea there.
+
+???question "Do you like going to street markets when you're on a holiday?"
+    I don't like to go to street markets on holiday.
+
+    Holiday is the time to do something you cannot do in your daily lives, or just have a rest in our busy lives.
+
+    By going to streets markets, I cannot do any of these two types.
+
+??? question "Which do you prefer: shopping at street market or shopping at a shopping centre?"
+    Shopping at a shopping center is a better choice for me.
+
+    A shopping center can offer more options when I'm trying to buy something.
+
+    And it can be more easy if you want to buy many things in one time.
