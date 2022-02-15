@@ -15,7 +15,7 @@ Map: Outdoor Map & Indoor Map
 
 Flow Chart: 
 
-## What is a good paper?
+## What is a good passage?
 
 Like reporting to your manager or professor
 
@@ -29,7 +29,7 @@ Like reporting to your manager or professor
 
 + Tense: whether it is in the past (2020?)
 
-## Dynamic Charts
+## Dynamic / Static Charts
 
 ### Step1: Summary
 
@@ -44,10 +44,11 @@ Like reporting to your manager or professor
     + From one side to another，similar or different between them？
     + similarity / differennce(grouping)
 
-
 3. [Dynamic]General Trends: up or down?
 
-4. [Static]What about your data group?
+4. [Static]What about your data group? 
+    + connection between data groups
+
 
 ### Step2: Grouping & Step3 : Analysis
 
@@ -89,16 +90,7 @@ Complete other general information.
 
 升华一下: 一张图的某个轴和另一张图的另一个轴
 
-[Mixed charts] connection between charts.
-
-
-
-## Static charts
-
-Within data groups
-
-Between data groups
-
+[Mixed charts] connection(similar, difference) between charts.
 
 ### Expression
 
@@ -123,3 +115,64 @@ Between data groups
 + before ...
 + and then ...
 + followed by ...
+
+## Map
+
+Indoor Map / Outdoor Map
+
+### The description of changes
+
+**HOW TO ORGANIZE?** 
+
+!!!note inline end
+    word:
+
+    + roundabout == circular road
+    + recreational
+
+1. get a point of reference, standing at this point
+    + at the center
+    + at an important changing point
+    + use a walking path
+
+2. locate **major** changes
+    + structural changes
+    + funcational changes
+    + big square space
+
+3. locate other changes
+
+### Step1: Summary & Conclusion
+
+!!!note inline end
+    + The map depicts ....
+    + Overall, ...
+
+1. What does the map say?
+
+!!!note inline end
+    + ... was/were added
+    + ... was renovated
+
+2. What is the change?
+    + general, give a qualitative conclusion(add/remove ? modernize ? extend?)
+    + the intention?
+
+### Step2: Major changes & key features
+
+!!! note inline end
+    + the most prominent change is ...
+    + in ... corner 
+
+1. What is the change?
+    + categorize changes by feature 
+    + unchange features used as supplemental info(to major change, or as a reference point)
+2. Where does the change happen?
+    + move with the point of reference 
+4. --> improve coherence & cohesion
+
+### Step3: Other changes & key features
+
+### Expression
+
+![image-20220215175431798](expression-location.png)

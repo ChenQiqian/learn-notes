@@ -448,7 +448,7 @@
 
     Also, when we want to show that we care adn value the person you're writing to, handwriting is our only choice.
 
-### Spending time with others
+## Spending time with others
 
 Keyword: talking
 
@@ -678,3 +678,128 @@ Keyword: high-speed railway
     A shopping center can offer more options when I'm trying to buy something.
 
     And it can be more easy if you want to buy many things in one time.
+
+## Watching sport
+
+Keyword: football
+
+???question "Do you enjoy watching sport on TV?"
+    I love watching sport on TV.
+
+    I can watch my favourite football team, FC Bayren, playing against other team.
+
+    I also like other sports, like figure skating and short track speed skating in Olympics.
+
+    Also, watching football and Olympic games with my family is really a precious memory for me.
+
+???question "Have you ever been to watch a live sports event [e.g. in a stadium] ?"
+    Yes, I have watched football games of Beijing Guoan, a local football team, in Workers' Stadium.
+
+    The atmosphere is extremely fantastic, and you can be easily moved, joining in all shouting and cheers.
+
+???question "Is there a sports event that might like to watch in the future?"
+    I would like to watch Woman football in the future.
+
+    The woman football team of china won the Asian Cup in February, and it's really inspiring.
+
+    I want to support them, and the best way to support a sport team is watching their games.
+
+???question "Do you think it's more enjoyable to watch sport alone or with friend?"
+    Sport is just about connecting people together!
+
+    We are happy together, we are sad together, and the Olympics' slogan is "faster higher stronger together".
+
+    Through watching together with friend, we can increase the friendship, so it's really enjoyable.
+
+## Art
+
+keyword: no sense of art, art history.
+
+???question "Did you learn to draw or paint when you were younger?"
+    No, actually.
+
+    I didn't think they are skills that I would need in the future, so I didn't manage to get draw or painting education.
+
+    So, I'm a bad painter now.
+
+???question "Have you ever visited an art gallery?"
+    I have a very rare experiene of visiting art galleries, and I only remember going as a part of a school trip.
+
+    Actually, I'm lack of the sense of art, so visiting an art gallery is a touture[ˈtɔrtʃər] for me.
+
+???question "Do you like looking at drawing or painting?"
+    Well, though I have no idea about the techniques of drawing, I can still appreciate the beauty of art.
+
+    I think to understand the beauty in the color, the lines of a drawing, you don't need to have a sense of art.     
+
+???question "Would you like to learn more about art in the future?"
+    It depends.
+
+    I don't think I'm a talented drawer, so learning drawing is impossible for me.
+
+    But, I'm quite interested in the art history, such as how art was connected to the history period when they were created. 
+
+    I think these are more valuable.
+
+## Finding and losing things
+
+???question "What kind of lost things have you found in a public place?"
+    Lots of things.
+
+    smartphones and textbooks in classroom.
+
+    Student card in school campus,
+
+    also citizen's id card in subways.
+
+
+???question "What would you do if you found something valuable, for example a phone?"
+    If I found something valuable...
+
+    Firstly, I will try to learn who owns this thing, maybe there is name on it, there is phone numbers.
+
+    Secondly, I will try to find the owner by the telephone number, or there is message on it.
+
+    Lastly, I will return the phone to its owner.
+
+???question "Have you ever lost something which was found by a stranger?"
+    Yes I once lost my student card and it was found by a student who is also in our school. 
+
+    However, I did not know him, He found me just by the department information on my student card.
+
+    So I really appreciated him because I have to pay twenty Yuan if I had lost that card.
+
+???question "Would you ever ask for help on social media to find something you'd lost?"
+    Yes I lost my phone last semester.
+
+    And when I found that my phone was lost, I used my roommates phone and sent a lost and found in schools’forum.
+
+### Email
+
+???question "Is email popular with everyone in your country?"
+    Email is not very popular in my country.
+
+    That is because we have many more ways to communicate with each other like wechat video calls.
+
+    That is almost all I need if I want to contact with people.
+
+???question "Do you send a lot of emails?"
+    No, I do not send a lot of emails.
+
+    Personally I dont have many reasons to use email.
+
+    I use email only when I need some formal communication with teachers departments and schools.
+
+???question "Do you prefer to email people or to speak to them on the phone?"
+    Personally I prefer to speak them on the phone.
+
+    That is because I can send much more information on the phone rather than just typing a few ores in the emails.
+
+???question "Do you think people will use email more or less in the future?"
+    I think people will use less emails in the future.
+
+    I am a student of computer science.
+
+    Email is just the production of time when people cannot send a lot of information by the Internet.
+
+    With the development of technology, people today have lots of ways that are more advanced, more easy, more convenient to use.
