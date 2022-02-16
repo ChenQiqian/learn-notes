@@ -1,6 +1,9 @@
+# IELTS Writing TASK1
+
 ## General Limit
 
-150 words in about 20 minutes
+150 words, 20 minutes, 1/3 score weight
+
 (More time probably need due to needing to add more information)
 
 ## Problem Types
@@ -176,3 +179,34 @@ Indoor Map / Outdoor Map
 ### Expression
 
 ![image-20220215175431798](expression-location.png)
+
+## Flow Chart
+
+Write what you see.
+
+### Step1: summary
+
+framework: rewrite the title of the chart
+
+### Step2: Phase & Steps
+
+!!!note inline end
+    First, ... . After that, ... . Then, ... . Finally, ... .
+
+
+Stress **detailed action** from charts!
+
+
++ Use more verb to point out the purpose
++ Add relationship between steps and phases
++ add other details:
+    * via ...; the shape ...; the size; other feature
+
+### Conclusion
+
+(Usually not need)
+
+
+### Expression 
+
+![](expression-flowchart.png)

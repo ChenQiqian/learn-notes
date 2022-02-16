@@ -1,4 +1,4 @@
-# Part1 Short question
+# IELTS Speaking Part1: Short question
 
 ## Work/Study
 
@@ -803,3 +803,118 @@ keyword: no sense of art, art history.
     Email is just the production of time when people cannot send a lot of information by the Internet.
 
     With the development of technology, people today have lots of ways that are more advanced, more easy, more convenient to use.
+
+## Daily Routine 
+
+???question "What do you usually do in the morning [before starting your work or studies]?"
+    I have a very tight morning schedule.
+
+    I have to prepare for my class in less than thirty minutes because I usually get up late for more sleep.
+
+    After I wake up, I make my bed and then I wash my face, brush my teeth, and go to the canteen for breakfast, and then ride to the class.
+
+???question "Do you prefer to go to bed early or late?"
+    I prefer go to bed early.
+    
+    Because it is not only good for my health, but also a way to increase my rest time, giving me more energy to work and study.
+
+???question "Do you like to do the same things every weekend?"
+    I don't like to do the same thing every weekend.
+
+    Weekend is the only free time between work, we shouldn't do something that is very ordinary at that time!
+
+    Whether it is trying a new restaurant, watching a new movie or hanging out with new people. There should be something new to make weekend not boring.
+
+???question "Is your daily routine going to change in the future?"
+    I'm not satisfied with my current routine because it is not healthy.
+
+    Maybe I'll try to sleep earlier and get up earlier place more exercise time into my routine.
+
+## Dreams
+
+???question "How often do you remember your dreams after you wake up?"
+    I often forget my dream a few minutes after I wake up, so I rarely remember them.
+
+    Before I forget it I usually just remember a few of the fragments of my dreams.
+
+???question "Do you like hearing about other people’s dreams?"
+    I really like hearing about other people's dreams.
+
+    Because I am a people who don't dream a lot, and my dream are most realistic, which means they are boring.
+
+    So listening to other people's dreams which has a lot of interesting stories is quite a complement for my lacking of dreams.
+
+???question "Do you think dreams can have special meanings?"
+    No I don't think dreams have special meanings.
+
+    Dreams are just a reflection of your thinking in the day.
+
+    So they don't have special meanings such as the prediction to the future.
+
+???question "Would you like to learn more about the subject of dreams?"
+    I am not interested in learning more about dreams.
+
+    Personally I believe most serious dreams are very unreliable.
+
+    So I think it's a waste of time to study theories about dreams.
+
+## Cell phones
+
+???question "Do you like using a cell phone?"
+    Yeah I like using a cell phone.
+
+    I use my phone all the time, it's rarely out of my hand.
+
+    I use my cell phone to get news to contact with my friends and to learn new knowledge from apps.
+
+???question "Do you send many text messages?"
+    Yes I send a lot of text messages to my friends.
+
+    We mainly talk about sports, the subject we are learning, and also share our daily lives.
+
+
+???question "When did you first have a cell phone?"
+    I first got my cellphone in my primary school when I was in grade four.
+
+    It was a old cell phone with android system, I could use wechat to contact with my parents if they wanted to pick me up in school.
+
+
+???question "Are there any places where you would not use a cell phone?"
+    Yes, a very few moments that I don't want to use my phone.
+
+    For example, when I am studying and I'm visiting some beautiful places with my friends
+
+    Using cellphones on these occasions is so unworthy.
+
+## Cinema 
+
+???question "Did you go to the cinema a lot when you were a child?"
+    Yes I went to the cinema, a lot when I was a child.
+
+    My father loved to watch science fiction films.
+
+    So, he always took me to the cinema, the new science fiction film was out.
+
+???question "Did you go to the cinema a lot when you were a child?"
+    I still like a lot of the same movies that I liked when I was a child.
+
+    As an adult today, I'm still a big fan of science fiction which my father liked a lot.
+
+    By the way, a few days earlier I went to the cinema to watch the fourth episode of the matrix
+
+
+???question "Do you prefer to go to the cinema with friends or on your own?"
+    I prefer to go to cinema with my friends.
+
+    Because watching movies is a good chance for socializing
+
+    After the movie ends we can discuss about the stories in movie
+
+    And as movies is usually quite long we can maybe take dinner or lunch together
+
+???question "Which is more popular in your country: watching movies at movie theatre, or watching movies at  home?"
+    I think watching movies and movie theater is popular now
+
+    However, with the development of television people nowadays like to watch movies, more and more at home.
+
+    Watching movies on TV is more convenient and cheaper than going to the cinema.
