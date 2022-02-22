@@ -31,6 +31,9 @@ nav:
       - 语法分析: cs/compilers/chap4.md
       - 语法制导的语义翻译: cs/compilers/chap5.md
       - 中间代码生成及优化: cs/compilers/chap6.md
+    - 人工智能导论:
+      - 简介: cs/ai/index.md
+      - 第一课: cs/ai/lec1.md
     - 工具:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md
