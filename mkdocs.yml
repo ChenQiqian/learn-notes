@@ -8,6 +8,7 @@ nav:
     - 简介: cs/index.md
     - 数据库:
       - 简介: cs/db/index.md
+      - MySQL 安装: cs/db/mysql-install.md
       - 关系模型: cs/db/relation.md
       - SQL 语句: cs/db/sql.md
       - 存储方案: cs/db/storage.md
@@ -77,8 +78,12 @@ nav:
   - 英语备考:
     - 雅思写作:
       - Task1: ielts/writing/task1.md
+      - Task2: ielts/writing/task2.md
+
     - 雅思口语:
       - Part1: ielts/speaking/part1.md
+      - Part2: ielts/speaking/part2.md
+
   - 实用工具:
     - 简介: tools/index.md
     - 文献工具: tools/citations.md

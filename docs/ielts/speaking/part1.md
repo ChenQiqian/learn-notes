@@ -70,7 +70,7 @@
 
     They are really good for children if he/she want to developing their abilities and horizons greatly and balancedly.
 
-???question "Did you learn about the history of your home tiwn when you were at school?"
+???question "Did you learn about the history of your home town when you were at school?"
     Of course, Beijing is the capital of many dynasties in ancient China and People's Republic of China.
 
     So the history of Beijing is taught a lot in middle school.
@@ -116,6 +116,15 @@
 
 ## Colours
 
+Keyword:
++ Red
+    - the color of fire
+    - strength
+    - encouragement
++ Blue
+    - cold
+    - uncomfortable
+
 ???question "What's your favourite colour?"
     My favourite colour is red, the color of fire.
 
@@ -139,6 +148,14 @@
     So colder colores like green and blue don't blend into my room, and them would make me feel not happy and solitary, being separate from the world.
 
 ## Getting lost
+
+Keyword:
++ never
++ distinguish directions easily
++ use map
++ ask local person person around
++ offer my help
+
 
 ???question "Have you ever got lost when you visited a new place?"
     No, I hardly get lost when I visited a new place. 
@@ -171,6 +188,13 @@
     So I would always offer them with my help.
 
 ## Pet and animals
+
+Keywords:
+
++ Cat, cute appearance
++ father and mother didn't allow
++ like a family member
++ it can relieve your pain especially in difficult occasions like the pandamic
 
 ???question "Would you like to have pets in the future?"
     Yes! I would like to have pets in the future.
@@ -211,6 +235,12 @@
 
 ## Public garden and parks
 
+Keywords:
+
++ lovely time
++ walk, ride
++ green plants, water field
+
 ???question "Did you go to public parks and gardens when you were a child?"
     Yes, I spent a lot of time in public parks and gardens when I was a child. 
     
@@ -229,7 +259,7 @@
 ???question "How have parks changed today compared to the time when you were a child?"
     Parks have changed a lot nowadays compared to when I was a child.
 
-    In my child, I remember the park that I usually go to was full of yellow plants and broken buildings.
+    In my childhood, the park was full of yellow plants and broken buildings.
 
     Now, thanks to the investment from the government, plants are more healthy, and more facilities[fəsɪlɪtiz] are built to make parks a better place to relax ourselves.
 
@@ -241,6 +271,8 @@
     In public garden, you never know who you're going to meet, which is very interesting and exciting.
 
 ## Weather
+
+Keywords: Sunny, warm, motivated, high spirit
 
 ???question "Does the weather change a lot in your country?"
     Yes, the weather changes a lot in my part of the country.
@@ -269,6 +301,10 @@
 
 ## Concentration
 
+Keyword:
++ studying
++ drawning out the distraction
+
 ???question "When is it particularly important for you to concentrate?"
     I think it is particularly important for me to concentrate when I'm studying.
 
@@ -281,7 +317,7 @@
 ???question "Can you concentrate in a noisy environment?"
     I do not find it difficult to concentrate in a noisy environment.
 
-    I'm very good at focusing and drowning out the distractions of my environment.
+    I'm very good at focusing and drawning out the distractions of my environment.
 
     When I'm focusing on a task, it is almost like I stop the world around me.
 
@@ -307,12 +343,17 @@
 
 ## Science
 
+Keyword:
+
++ encyclopedia
++ astrophysics
++ passion
++ full of wonders
+
 ???question "When did you start to learn about science?"
     I started to learn science from a very early age, even before I went to school!
 
     My father once bought me a encyclopedia[ɛnsaɪkləuˈpiːdɪə], and I personally take that book as my earliest science education.
-
-    To be honest, I still enjoy that feeling of imagining I'm a astronaut, traveling between stars.
 
 ???question "Which science subject is interesting to you?"
     The science subject I am most interested in is physics, particularly astrophysics.
@@ -321,12 +362,10 @@
 
     I really like learning about the cosmos and distant steller systems.
 
-    The universe is so sexy!
-
 ???question "Is it easy for you to learn science subjects?"
     I find it quite easy to learn science subjects.
 
-    In my opinion, learning something is easy if yu have passion. 
+    In my opinion, learning something is easy if you have passion. 
 
     Science, which is full of wonders, can surely light me up, giving me the passion even from learning itself.
 
@@ -337,9 +376,13 @@
 
     When you look down at the ground, the building, the soil, all that elements need geography, more precisely, geological knowledge.
 
-    I think this is basic knowledge, you cannot have such a life without geography, as long as you are on this earth! 
-
 ## Shoes
+
+Keyword:
++ useful, practical
++ the brand
++ running, confortable 
+
 
 ???question "Do you like buying shoes? How often?"
     I don't really like buying shoes. 
@@ -362,13 +405,11 @@
 ???question "Would you ever spend a lot of money on shoes?"
     No, actually.
 
-    So, I only buy shoes when my old shoes are broken and I need a new pair.
+    So, I only buy shoes when my old shoes are broken and I need a new one.
 
     And, I don't care about fashion or collecting different shoes.
 
     All I want is a pair of shoes with good performance and a relatively worthwhile price.
-
-    So I wouldn't spend a lot of money on them.
 
 ???question "Which do you prefer, fashionable shoes or comfortable shoes?"
     You know, as a runner, I completely  prefer comfortable shoes to fashionable shoes. 
@@ -379,20 +420,19 @@
 
 ## Headphones
 
+Keyword:
++ listening to music
++ smartphones
++ rude & respectful
+
 ???question "How often do you use headphones?"
     I use headphones all the time!
-
-    I love to listen to music and do so at any opportunity.
-
-    So I use headphones when I'm commuting around my town, when I am working in library and even I was relaxing at home.
-
-    Nowadays, they make powerful headphones with incredible sound quality, so I enjoy listening to music much more!
+    
+    I use headphones when I'm commuting around the city, when I am working in library and even I was relaxing at home.
 
 ???question "Are headphones popular in your country?"
     Yes, headphones are popular in my country.
-
-    People consider headphones an essential gadget to have in modern world.
-
+    
     We take our smartphones everywhere, and so does we take our headphones to listen to whether music or video program.
 
     You can see that almost everyone in the subway wears headphones, watching their phones.
@@ -400,12 +440,12 @@
 ???question "Are headphones comfortable to wear?"
     While, that depends.
 
-    In my opinion, head-wear types of the headphones are too heavy so wearing them for a long period will be really tired for me.
+    In my opinion, head-wear types of the headphones are too heavy to wear them for a long period.
 
-    However, the type of in-ear headphones, like airpods from apple, is a lot lighter, so they are a lot more suitable to wear for me.
+    However, the type of in-ear headphones, is a lot lighter, so they are a lot more suitable to wear for me.
 
 
-???question "In what conditions you won't yse headphones?"
+???question "In what conditions you won't use headphones?"
     I won't use headphones when I am hanging out with my friends or family.
 
     I think using headphones in these situations are incredibly rude and it is something that I wish never happen to myself.
@@ -413,6 +453,10 @@
     It is, you know, a respection to our friend, our family, and it just come from these daily stuffs.
 
 ## Handwritings
+
+Keywords:
++ typing is fast, in electronic form, in spelling
++ but handwriting is in shape, is your identity & respect
 
 ???question "Do you prefer handwriting or typing?"
     Personally, I prefer typing to handwriting.
@@ -428,9 +472,7 @@
 
     When I was younger, I had to write my everyday homework with pen and paper.
 
-    The electronic devices were strictly prohibited in schools, so notes had to be taken by hand also.
-
-    However, nowadays in university, I can hand in all my homework in digital form, so there is no need to write.
+    However, nowadays in university, I can hand in all my homework in electronic form, so there is no need to write.
 
 ???question "What is the difference between handwriting and using a keyboard?"
     I would say there are so many differences, but the biggest one must be the way you compose.
@@ -442,7 +484,7 @@
     However, when writing, we are imagining the shape of the character, so I would even say that we are drawing. It leads to a more beautiful way of composing.
 
 ???question "What are some of the things that require handwriting?"
-    I think handwriting represents your identity and your respectation.
+    I think handwriting represents your identity and your respect.
 
     So, signing is one of the places that you use your handwriting to prove the identity.
 
@@ -452,12 +494,13 @@
 
 Keyword: talking
 
++ socialize, increase understanding
++ dinner, not time consuming
+
 ???question "What do you most enjoy doing with other people?"
     I prefer activites that I can freely talk with other people.
 
     I believe talking is the most effective way to socialize, and to increase our mutual understanding.
-
-    So, I don't really like such things like watching movies in cinema, or listening to a concert.
 
     I really want to talk!
 
@@ -466,7 +509,9 @@ Keyword: talking
 
     I will invite them for dinner almost every week, and I can talk to them, learning what they are working at.
 
-    Even I have a very stressful study life, I still consider my friends as the most precious part in my life, so there is no problem of lacking time.
+    Talking is not so time consuming.
+
+    <!-- Even I have a very stressful study life, I still consider my friends as the most precious part in my life, so there is no problem of lacking time. -->
 
 ???question "Would you prefer to study alone or with others?"
     Personally, I would like to study with others.
@@ -488,6 +533,10 @@ Keyword: talking
 
 Keyword: documentary programs
 
++ learning
++ entertaining & educational
++ enrich life
+
 ???question "What kind of TV programs do you enjoy watching?"
     I enjoy watching documentaries.
 
@@ -498,13 +547,11 @@ Keyword: documentary programs
     Watching them is just a wasting of time and life.
 
 ???question "Did you watch too much TV when you were a child?"
-    Well, I did not watch too much TV when I was a child.
+    Well, yes, I think.
 
-    My parents are quite strict with me, and they only allow me to watch tv at certain times.
+    Every day after I finished my homework, I will watch TV for the entire evening.
 
-    For example, I couldn't watch TV before I finished my homework;
-
-    and I have to earn the time of watching TV by doing chores at home.
+    However, I do think I learn a lot from watching TV.
 
 ???question "Do you think children nowadays watch too much TV?"
     Of course, at least for some of them.
@@ -522,14 +569,18 @@ Keyword: documentary programs
 
 ## Mirrors
 
-Keyword: Appearance! Clothes!
+Keyword: 
++ full-length mirror
++ Appearance! 
++ Clothes!
++ self-conscious
 
 ???question "How often do you look at yourself in a mirror?"
     I look at myself in mirror very often, several times a day, I guess.
 
-    I'm quite self-conscious about my appearance, and I enjoy being neat and clean.
+    When I'm washing my face, before I go out for class.
 
-    Therefore, I usually use mirrors to do a self-check.
+    I'm quite self-conscious about my appearance, and I enjoy being neat and clean.
 
 ???question "Have you ever bought a mirror?"
     Yes, certainly.
@@ -560,9 +611,9 @@ Keyword: Appearance! Clothes!
 
 ## Taking photos
 
-Keyword: Recording family and friend life.
+Keyword: Recording family and friend life, also beautiful scenaries.
 
-???question "How oftem do you take photos?"
+???question "How often do you take photos?"
     I believe photos a ways to record life, like diary.
 
     So I take photos every day using the camera on my phone, in order to remember my wonderful life.
