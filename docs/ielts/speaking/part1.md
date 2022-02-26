@@ -570,6 +570,7 @@ Keyword: documentary programs
 ## Mirrors
 
 Keyword: 
+
 + full-length mirror
 + Appearance! 
 + Clothes!
@@ -611,12 +612,16 @@ Keyword:
 
 ## Taking photos
 
-Keyword: Recording family and friend life, also beautiful scenaries.
+Keyword:
+
++ Recording family and friend life
+
++ also beautiful scenaries.
 
 ???question "How often do you take photos?"
-    I believe photos a ways to record life, like diary.
-
     So I take photos every day using the camera on my phone, in order to remember my wonderful life.
+
+    I believe photos are a ways to record life, like diary.
 
     I usually take photos with my friends, and take photos when I meet beautiful scenaries.
 
@@ -637,7 +642,7 @@ Keyword: Recording family and friend life, also beautiful scenaries.
 ???question "Would you like to learn how to take better photos?"
     Well, I would definitely want to do that. 
 
-    My girlfriend always hopes that she can be more beautiful in the photos, especially when we travel together.
+    <!-- My girlfriend always hopes that she can be more beautiful in the photos, especially when we travel together. -->
 
     From my own aspects, I really travel all over the country and, if possible, all over the world.
 
@@ -646,7 +651,10 @@ Keyword: Recording family and friend life, also beautiful scenaries.
 
 ## Car
 
-Keyword: high-speed railway
+Keyword: 
+
++ high-speed railway
++ in car cannot walk
 
 ???question "Did you enjoy travelling by car when you were a child?"
     No, I didn't enjoy travelling by car when I was a child.
@@ -664,7 +672,7 @@ Keyword: high-speed railway
     Driving is much too tired for me, and it need lots of focus, which mean I cannot do anything I want.
 
 ???question "How important is the colour of a car to you?"
-    There is no imortantce attached to the colour I think.
+    There is no importance attached to the colour I think.
 
     The essential function of a car is transporting, and I don't really care whether the car is black or white.
 
@@ -678,6 +686,13 @@ Keyword: high-speed railway
     Perhaps, having a electronic car will become a fashion in the future.
 
 ## Websites
+
+Keywords:
+
++ research
++ scholar
++ academic world
++ zhihu: texts --> images & videos
 
 ???question "What kinds of websites do you use most often?"
     The website I use most often are my email and research website. 
@@ -703,6 +718,11 @@ Keyword: high-speed railway
     What's more, the website has introduced some new concepts of designing, so general styles have totally changed.
 
 ## Street Market
+
+
+Keywords:
+
++ food
 
 ???question "What are the best things to buy at street markets in your country?"
     The best thing to buy at street markets in China must be food and drinks!
