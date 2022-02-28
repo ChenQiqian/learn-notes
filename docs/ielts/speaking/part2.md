@@ -24,7 +24,7 @@ In the following part, we will divide all possible questions, and give some keyw
 
 ## People
 
-### 名人-商人: Elon Musk
+### 运动员-花样滑冰
 
 !!!question "在社交媒体上关注的人"
     Describe a person you follow regularly on social media
@@ -35,7 +35,19 @@ In the following part, we will divide all possible questions, and give some keyw
 
     Explain why you follow this person regularly on social media.
 
+
+!!!question "体育明星"
+    describe a sportsperson who did very well at an event
+
+    + who the sportsperson was 
+    + what the sports event was
+    + why the sportsperson did well
+
+    explain how you felt when the sportsperson did very well
+
 Idea: figure skating
+
+### 名人-商人: Elon Musk
 
 !!!question "商人"
     describe a businessman you admire
@@ -93,16 +105,30 @@ Idea: figure skating
 
     explain why you think he/she is interesting
 
+```
+Elon Musk
 
 
-!!!question "体育明星"
-    describe a sportsperson who did very well at an event
+1.Famous person:
+    A talented student in queen's university
+    have a excellent person
+2. Business Person:
+    The CEO of Tesla, SpaceX
+    --> making several billions of money a year
+3. Creative person & clever solution:
+    Leading the world 
+        by inventing the recyclable rocket
+        ---> to cut down the price of single rocket 
+        by make electronic car come into reality
+        ---> to improve the environment
 
-    + who the sportsperson was 
-    + what the sports event was
-    + why the sportsperson did well
+To me:
+    admire him really much
+    inspiring strength
+    when people are still customed with old traditions, he is the first person who stands out and tell everybody that it is not the eternal truth
+```
 
-    explain how you felt when the sportsperson did very well
+
 
 ### 熟人-朋友：classmate
 
@@ -354,6 +380,7 @@ Idea: Girlfriend
 
     Explain how successful you were at trying to repair things
 
+
 Idea: your glasses
 
 
@@ -378,9 +405,28 @@ Idea: your glasses
     explain why you would like to buy this gift for your friend
 
 
-a gift of a clothes that had her name on 
+!!!question "花费超过预期"
+    Describe a time when you had to pay more than you expected for something
 
-a t-shirt
+    + what you were paying for
+    + how you felt when you saw the price
+    + what you did about it
+
+    explain why the amount of money you had to pay was unexpected
+
+a gift of a clothes that had her/my name on 
+
+
+### 玩具
+
+!!!question "玩具"
+    describe a toy that you often played with as a child
+
+    + what kind of toy it was
+    + how old you are when you can got it
+    + whether you played with the toy by yourself or with other people
+
+    explain how you felt about this toy
 
 
 
@@ -429,13 +475,23 @@ a t-shirt
 Xinjiang
 
 1. good natural scenary
-    in a national park
+    in a national park, also an Internet famous town
+    mountains that is covered by snow & ice
+    lakes which has the purest water
 2. wonderful people there
-3. friends that is be with me 
+    friendly locals
+    delicious local food -- chicken in big plates
+3. walking through the forest & grassland 
+    friends that is be with me - companion
+    helping us out of the place that we aren't familiar with
+    photographic -- we take my selfies 
+    playing games on cushions
 ```
 
 
 ## Other
+
+### 不喜欢的规则
 
 !!!question "规则-学校/工作中不喜欢的规定"
     Describe a rule you dislike and would like to change 
@@ -448,6 +504,7 @@ Xinjiang
 
 Idea: School Uniform
 
+### 令人激动的书
 
 !!!question "令人激动的书"
     describe an exciting book that you enjoy reading
@@ -458,25 +515,10 @@ Idea: School Uniform
 
     explain why this book was so exciting
 
-Idea: 
+Idea:
 
-!!!question "搬家"
-    describe a time when you moved to a new home/school
-
-    + when you moved
-    + where you moved
-    + why you moved
-
-    explain how you felt about it
-
-!!!question "玩具"
-    describe a toy that you often played with as a child
-
-    + what kind of toy it was
-    + how old you are when you can got it
-    + whether you played with the toy by yourself or with other people
-
-    explain how you felt about this toy
+The capital!
+### 房子/搬家
 
 !!!question "房子"
     describe the kind of house or apartment you would like to live in
@@ -487,6 +529,38 @@ Idea:
     
     explain why you would like to live in this house/apartment
 
+!!!question "搬家"
+    describe a time when you moved to a new home/school
+
+    + when you moved
+    + where you moved
+    + why you moved
+
+    explain how you felt about it
+
+
+About the house:
+
+itself:
+
++ situated in the downtown of the city
++ big 
+
+surroudings:
+
++ good natural environment
++ close to the subway
+
+Special:
+
++ 
+
+Reason & Feel :
+
++ utterly wonderful for someone who want to have high stanard life quality
+
+### 歌 
+
 !!!question "歌"
     describe a song that you think is interesting
 
@@ -496,7 +570,36 @@ Idea:
 
     explain why you think this song is interesting
 
+Katyusha
 
+A russian traditional song 
+
+History:
+
++ war song, but named after a Girl's name in russia
++ 70 years ago
++ world war II
++ well known in both in russia & china 
+
+Lyrics
+
++ well written
++ describe a story in world war II, when a boy went to a fight a war
++ the girl was waiting for him in their homeland 
++ so this song encouraged the boy to fight the enemy more bravely
+
+Rhyme
+
++ attractive
+
+
+Ineresting, continued to be played
+
++ it is a common value of human, to protect our nation from other's invasion
++ especially for our national that had deep pain in the past
++ it became a symbol of russian nation 
+
+### 城市
 
 !!!question "城市"
     describe a famous city that you find interesting
@@ -510,14 +613,15 @@ Idea:
 Geography:
 
 + beijing is situated in the north part of china, in the north edge of northern China plain.
-+ mountain
 
 Economy:
 
 + economical center 
 
-Education 
+Education:
 
++ famous universities
+    + lots of talented person to boost the local development 
 
 
 History & Modern:
@@ -525,9 +629,11 @@ History & Modern:
 + forbidden city is over 500 years old
 + when you turn left or right
 + the tall & modernlized buildings are clearly visible, which reminds of you of how prosperous the city of beijing is
-+ mountain
++ mountains can be seen also directly between the gap of ancient buildings.
 
+this magical collision makes the city full of charm and is the cause of its fame
 
+### 蛋糕
 
 
 !!!question "蛋糕"
