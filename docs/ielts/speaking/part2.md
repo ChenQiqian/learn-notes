@@ -12,7 +12,19 @@ There are general five patterns of question, mainly talking about:
 
 In the following part, we will divide all possible questions, and give some keywords as the material to organize our speech.
 
+
+### Organization
+
+
+1. repeat
+2. reason
+3. background
+4. examples
+5. sum up
+
 ## People
+
+### 名人-商人: Elon Musk
 
 !!!question "在社交媒体上关注的人"
     Describe a person you follow regularly on social media
@@ -25,6 +37,75 @@ In the following part, we will divide all possible questions, and give some keyw
 
 Idea: figure skating
 
+!!!question "商人"
+    describe a businessman you admire
+
+    + who this person is
+    + what his/her business is 
+    + what you know about this person's business career
+
+    explain why you admire this businessman
+
+!!!question  "有创意的人"
+    describe a creative person whose work you admire
+
+    + who this person is
+    + what you know about this person
+    + what you consider his or her greatness success
+
+    explain why you admire this person's work
+
+
+!!!question "名人"
+    describe a famous person you are interested in
+    
+    + who this person is
+    + how you knew about this person
+    + what this person was like before this person became famous
+
+    explain why you are interested in this person
+
+!!!question "聪明人"
+    describe a time when someone you know found a clever solution to a problem
+
+    + who the person is
+    + what the problem was
+    + what the person did
+
+    explain why you think this was a clever solution to the problem
+
+!!!question "对社会有用的人"
+    describe a person you know who does a job which is useful to society
+
+    + who this person is
+    + what job this person does
+    + what skills this person needs to do the job
+
+    explain why you think this job is useful to society
+
+
+!!!question "有趣的外国人"
+    describe a foreign person who you have heard or known that you think is interesting
+    
+    + who the person is 
+    + how you knew him/her
+    + what kind of person he/she is
+
+    explain why you think he/she is interesting
+
+
+
+!!!question "体育明星"
+    describe a sportsperson who did very well at an event
+
+    + who the sportsperson was 
+    + what the sports event was
+    + why the sportsperson did well
+
+    explain how you felt when the sportsperson did very well
+
+### 熟人-朋友：classmate
+
 !!!question "人-刚认识"
     Describe a person you only met recently who you would like to get to know better.
 
@@ -34,7 +115,6 @@ Idea: figure skating
 
     Explain why you would like to get to know this person better.
 
-Idea: classmates
 
 !!!question "人-想要共度时间"
     Describe a person that you enjoy spending time with
@@ -47,63 +127,7 @@ Idea: classmates
 
 Idea: Girlfriend
 
-!!!question 
-    describe a businessman you admire
-
-    + who this person is
-    + what his/her business is 
-    + what you know about this person's business career
-
-    explain why you admire this businessman
-
-!!!question 
-    describe a creative person whose work you admire
-
-    + who this person is
-    + what you know about this person
-    + what you consider his or her greatness success
-
-    explain why you admire this person's work
-
-
-!!!question
-    describe a famous person you are interested in
-    
-    + who this person is
-    + how you knew about this person
-    + what this person was like before this person became famous
-
-    explain why you are interested in this person
-
-!!!question
-    describe a time when someone you know found a clever solution to a problem
-
-    + who the person is
-    + what the problem was
-    + what the person did
-
-    explain why you think this was a clever solution to the problem
-
-!!!question
-    describe a person you know who does a job which is useful to society
-
-    + who this person is
-    + what job this person does
-    + what skills this person needs to do the job
-
-    explain why you think this job is useful to society
-
-
-!!!question 
-    describe a foreign person who you have heard or known that you think is interesting
-    
-    + who the person is 
-    + how you knew him/her
-    + what kind of person he/she is
-
-    explain why you think he/she is interesting
-
-!!!question
+!!!question "你小学就认识的人"
     describe a person from your primary/elementary school that you have good memories of
 
     + who this person is 
@@ -112,29 +136,9 @@ Idea: Girlfriend
 
     explain why you have good memories of this person from your primary / elementary school
 
-!!!question 
-    describe a sportsperson who did very well at an event
+## Experience
 
-    + who the sportsperson was 
-    + what the sports event was
-    + why the sportsperson did well
-
-    explain how you felt when the sportsperson did very well
-
-# Experience
-
-!!!question "帮助你学外语的事情"
-    Describe **something** you did that helped you to **learn another language**.
-    
-    + What you did?
-    + Where you did it?
-    + Who you did it with?
-
-    Explain how doing this helped you to learn another language.
-
-Ideas: 
-
-Watching shows like Game of thrones
+### 谈恋爱的故事
 
 !!!question "故事-别人告诉你，你记住的"
     Describe a story someone told you that you remember well
@@ -154,9 +158,7 @@ Watching shows like Game of thrones
 
     Explain why you found this discussion was interesting.
 
-Idea: 谈恋爱的故事
-
-!!!question "快乐时光"
+!!!question "打算进行的快乐时光"
     describe a time when you were preparing for a happy event
 
     + what the event was
@@ -164,6 +166,36 @@ Idea: 谈恋爱的故事
     + who helped you prepare for it
 
     explain how successful your preparations for this happy event were
+
+谈恋爱的故事：
+
++ 认识
++ 表白
++ 择偶标准
+    + ，
+
+### 父亲学外语，学物理，学数学
+
+!!!question "为家庭成员自豪"
+    describe a time when you felt very proud of something a family member did
+
+    + who the family member is
+    + what he/she did
+    + where and when this happened
+
+    explain why you felt so proud of what you family member did
+
+
+!!!question "帮助你学外语的事情"
+    Describe **something** you did that helped you to **learn another language**.
+    
+    + What you did?
+    + Where you did it?
+    + Who you did it with?
+
+    Explain how doing this helped you to learn another language.
+
+
 
 !!!question "自行车旅行"
     describe a bicycle/motorbike/car trip that you think would be interesting
@@ -174,14 +206,7 @@ Idea: 谈恋爱的故事
 
     why you think using a bicycle/motorbike/car for this trip would be interesting
 
-!!!question "新到某地"
-    describe a time that you remember being in a new place
-    
-    + where you were
-    + Why you were in new place
-    + What you remember about it
-
-    Explain how you felt about being this new places
+### a free cup of coffee
 
 !!!question "免费经历"
     describe a time when you received something without having to pay for it
@@ -210,7 +235,6 @@ Idea: 谈恋爱的故事
 
     explain why you liked or disliked about this cafe
 
-
 !!!question "等待经历"
     describe a time when you had to wait for something special to happen
 
@@ -220,16 +244,10 @@ Idea: 谈恋爱的故事
 
     explain how you felt about waiting for this special thing to happen
 
-!!!question "为家庭成员自豪"
-    describe a time when you felt very proud of something a family member did
 
-    + who the family member is
-    + what he/she did
-    + where and when this happened
+### 学习做饭
 
-    explain why you felt so proud of what you family member did
-
-!!!question "从年长者技能"
+!!!question "从年长者学到技能"
     describe a useful skill you learned from an older person
 
     + who the older person was
@@ -257,15 +275,7 @@ Idea: 谈恋爱的故事
     explain why you think it could be interesting to learn more
 
 
-!!!question "没有达到的雄心"
-    describe an ambition that you haven't achieved yet.
-
-    + what your ambition is 
-    + why you want to achieve this ambition
-    + how long you have had this ambition
-
-    explain why you haven't achieve this ambition yet
-
+### 坚持跑步
 
 !!!question "很难做出的决定"
     describe a decision that was difficult for you to make
@@ -285,6 +295,16 @@ Idea: 谈恋爱的故事
 
     explain how you felt about succeeding in doing this 
 
+
+!!!question "没有达到的雄心（上一题的反面）"
+    describe an ambition that you haven't achieved yet.
+
+    + what your ambition is 
+    + why you want to achieve this ambition
+    + how long you have had this ambition
+
+    explain why you haven't achieve this ambition yet
+
 !!!question "很好的习惯"
     describe a good habit a friend has that you would like to develop
 
@@ -303,26 +323,6 @@ Idea: 谈恋爱的故事
 
     explain why you gave the advice
 
-
-!!!question "浪费时间的活动"
-    describe an activity you usually do that wastes your time
-    
-    + what it is
-    + how long you have been doing it
-    + when do you usually do it
-
-    explain why you are still doing it knowing it is a waste of time
-
-!!!question "对不喜欢的人友善"
-    describe a time you were friendly to someone you didn't like
-
-    + when and where it happpened
-    + who he/she was
-    + why you didn't like this person
-
-    explain why you were friendly to him/her on that occasion
-
-
 !!!question "起床起很早"
     describe a time when you had to get up very early
 
@@ -334,12 +334,14 @@ Idea: 谈恋爱的故事
 
 ## Object
 
+### 眼镜-离不开-修复
+
 !!!question "物品-离不开"
     Describe something you cannot live without
 
     + What this thing is
     + What you used for it
-    + How lng you have had it
+    + How long you have had it
 
     Explain why you can't live without this thing
 
@@ -355,6 +357,8 @@ Idea: 谈恋爱的故事
 Idea: your glasses
 
 
+### 衣服-礼物
+
 !!!question "物品-别人给的衣服"
     Describe an item of clothing that someone gave you 
 
@@ -363,8 +367,6 @@ Idea: your glasses
     + When you wore it
 
     Explain why this person gave you this item of clothing
-
-Idea: Gift that my girlfriend give me
 
 !!!question "给朋友买的礼物"
     describe a gift you would like to buy for a friend
@@ -376,10 +378,25 @@ Idea: Gift that my girlfriend give me
     explain why you would like to buy this gift for your friend
 
 
+a gift of a clothes that had her name on 
 
-# Place
+a t-shirt
 
-Idea: small tourist village 
+
+
+
+## Place
+
+### 新到某地-乡村漫步-度假
+
+!!!question "新到某地"
+    describe a time that you remember being in a new place
+    
+    + where you were
+    + Why you were in new place
+    + What you remember about it
+
+    Explain how you felt about being this new places
 
 !!!question "走路"
     Describe a long walk that you enjoyed
@@ -408,6 +425,15 @@ Idea: small tourist village
 
     explain why you would recommend this palce for a holiday/vacation
 
+```
+Xinjiang
+
+1. good natural scenary
+    in a national park
+2. wonderful people there
+3. friends that is be with me 
+```
+
 
 ## Other
 
@@ -431,6 +457,8 @@ Idea: School Uniform
     + what the book was about
 
     explain why this book was so exciting
+
+Idea: 
 
 !!!question "搬家"
     describe a time when you moved to a new home/school
@@ -468,6 +496,8 @@ Idea: School Uniform
 
     explain why you think this song is interesting
 
+
+
 !!!question "城市"
     describe a famous city that you find interesting
 
@@ -475,7 +505,29 @@ Idea: School Uniform
     + how you know about the city
     + why the city is famous 
 
-    explain why you find this city interseting
+    explain why you find this city interesting
+
+Geography:
+
++ beijing is situated in the north part of china, in the north edge of northern China plain.
++ mountain
+
+Economy:
+
++ economical center 
+
+Education 
+
+
+
+History & Modern:
+
++ forbidden city is over 500 years old
++ when you turn left or right
++ the tall & modernlized buildings are clearly visible, which reminds of you of how prosperous the city of beijing is
++ mountain
+
+
 
 
 !!!question "蛋糕"
@@ -487,3 +539,29 @@ Idea: School Uniform
 
     explain how you felt about having this special cake
 
+特殊的: peculiar
+
+celebrate my birthday 
+
+appearance
+
++ huge 
++ several layers
++ small light bulbs on the surface of the cake 
++ chocolate
+
+我:
+
+surprise 
+
+couldn't wait
+
+别人:
+
+saying happy birthday to me
+
+everybody in the party shared my excitement and fascination
+
+对比:
+
+it is the biggest cake that I have ever received, it's a really special experience that beyond my imagination
