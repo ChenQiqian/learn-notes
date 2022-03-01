@@ -16,13 +16,26 @@ In the following part, we will divide all possible questions, and give some keyw
 ### Organization
 
 
-1. repeat
+1. introduction - something generally about topic
+
+about each question:
+
+1. repeat - repeat the question 
 2. reason
 3. background
 4. examples
-5. sum up
+5. comparison
+
+
+1. sum up
 
 ## People
+
+1. general introduction
+2. their objective traits
+    1. appearance
+3. their personalities
+4. My comments, my feelings
 
 ### 运动员-花样滑冰
 
@@ -45,7 +58,26 @@ In the following part, we will divide all possible questions, and give some keyw
 
     explain how you felt when the sportsperson did very well
 
-Idea: figure skating
+```
+Anna Shcherbakova
+
+a figure skating star who won the champion of Winter Olympics of women single skating
+
+Performance on Winter Olympics:
+    highest total score in the short program and free skating
+    a personal best score
+    when her performance ended, everyone was cheering and applausing
+    she is like a little angle on the ice
+
+The reason of success:
+    talented
+    diligent & self-disciplined & strict 
+        for example, she usually wake up at 3 to train 
+
+On social media:
+    share her daily training
+    the video of her performance on important events ---performance on winter olympics
+```
 
 ### 名人-商人: Elon Musk
 
@@ -108,7 +140,6 @@ Idea: figure skating
 ```
 Elon Musk
 
-
 1.Famous person:
     A talented student in queen's university
     have a excellent person
@@ -130,7 +161,7 @@ To me:
 
 
 
-### 熟人-朋友：classmate
+### 熟人-朋友：a foreign teacher
 
 !!!question "人-刚认识"
     Describe a person you only met recently who you would like to get to know better.
@@ -151,7 +182,6 @@ To me:
 
     Explain why you enjoy spending time with this person
 
-Idea: Girlfriend
 
 !!!question "你小学就认识的人"
     describe a person from your primary/elementary school that you have good memories of
@@ -162,9 +192,23 @@ Idea: Girlfriend
 
     explain why you have good memories of this person from your primary / elementary school
 
+
+!!!question "帮助你学外语的事情"
+    Describe **something** you did that helped you to **learn another language**.
+    
+    + What you did?
+    + Where you did it?
+    + Who you did it with?
+
+    Explain how doing this helped you to learn another language.
+
+```
+a foreign teacher (in the primary school)
+```
+
 ## Experience
 
-### 谈恋爱的故事
+### 书本里的某个故事
 
 !!!question "故事-别人告诉你，你记住的"
     Describe a story someone told you that you remember well
@@ -184,6 +228,23 @@ Idea: Girlfriend
 
     Explain why you found this discussion was interesting.
 
+!!!question "令人激动的书"
+    describe an exciting book that you enjoy reading
+
+    + what type of book it was
+    + why you read the book
+    + what the book was about
+
+    explain why this book was so exciting
+
+```
+the game of thrones
+
+make a story of that
+```
+
+### 快乐时光-自行车旅行
+
 !!!question "打算进行的快乐时光"
     describe a time when you were preparing for a happy event
 
@@ -192,35 +253,6 @@ Idea: Girlfriend
     + who helped you prepare for it
 
     explain how successful your preparations for this happy event were
-
-谈恋爱的故事：
-
-+ 认识
-+ 表白
-+ 择偶标准
-    + ，
-
-### 父亲学外语，学物理，学数学
-
-!!!question "为家庭成员自豪"
-    describe a time when you felt very proud of something a family member did
-
-    + who the family member is
-    + what he/she did
-    + where and when this happened
-
-    explain why you felt so proud of what you family member did
-
-
-!!!question "帮助你学外语的事情"
-    Describe **something** you did that helped you to **learn another language**.
-    
-    + What you did?
-    + Where you did it?
-    + Who you did it with?
-
-    Explain how doing this helped you to learn another language.
-
 
 
 !!!question "自行车旅行"
@@ -232,7 +264,15 @@ Idea: Girlfriend
 
     why you think using a bicycle/motorbike/car for this trip would be interesting
 
-### a free cup of coffee
+```
+ride bicycle to a temple in the mountain
+
+and then camping
+
+```
+
+
+### 免费-咖啡-很好的服务
 
 !!!question "免费经历"
     describe a time when you received something without having to pay for it
@@ -270,6 +310,30 @@ Idea: Girlfriend
 
     explain how you felt about waiting for this special thing to happen
 
+```
+in vacation, tired at home 
+
+a newly-opened Starbucks in the shopping mall
+
+just-launched --> few customers --> great environment
+
+what happened:
+    special event that if a send a post in my social media, I will have a free cup of coffee
+    However, I have to keep it more than 1 hour to get this cup of coffee
+        I'm glad to share this wonderful place to my friend
+
+my comment / 给他定个性:
+    I'm relxed
+    I can work at there with high efficency
+    I can immersed in the beautiful environment, 
+
+comparison:
+    I felt at home, or even better than my home
+    I always distracted in the home
+
+    also get nice drink without having to pay for it 
+
+```
 
 ### 学习做饭
 
@@ -299,6 +363,28 @@ Idea: Girlfriend
     + how you could learn more about it 
 
     explain why you think it could be interesting to learn more
+
+
+!!!question "为家庭成员自豪"
+    describe a time when you felt very proud of something a family member did
+
+    + who the family member is
+    + what he/she did
+    + where and when this happened
+
+    explain why you felt so proud of what you family member did
+
+```
+learn how to cook
+
+background:
+
+process (time order):
+
+the result:
+
+my feeling:
+```
 
 
 ### 坚持跑步
@@ -358,9 +444,46 @@ Idea: Girlfriend
 
     explain how you felt about getting up very early
 
+```
+running
+
+Background:
+    A friend of me/I...
+
+    unhealthy and fat.
+
+The process:
+    Every day, except special weather condition
+
+Emphasize the difficulties by using my feeing:
+    sleepy
+    cold
+    overwhelmed by the sense of achievement
+
+The result:
+    I failed -- 
+    I succeeded --
+    
+```
+
 ## Object
 
-### 眼镜-离不开-修复
+1. background
+2. detailed appearance, function
+3. importance, the meaning attached to it
+4. my memories & feelings
+
+### 玩具-离不开-修复
+
+
+!!!question "玩具"
+    describe a toy that you often played with as a child
+
+    + what kind of toy it was
+    + how old you are when you can got it
+    + whether you played with the toy by yourself or with other people
+
+    explain how you felt about this toy
 
 !!!question "物品-离不开"
     Describe something you cannot live without
@@ -380,11 +503,12 @@ Idea: Girlfriend
 
     Explain how successful you were at trying to repair things
 
+```
+a electronic cat toy
+```
 
-Idea: your glasses
 
-
-### 衣服-礼物
+### 衣服-礼物-花费超过预期
 
 !!!question "物品-别人给的衣服"
     Describe an item of clothing that someone gave you 
@@ -414,26 +538,11 @@ Idea: your glasses
 
     explain why the amount of money you had to pay was unexpected
 
-a gift of a clothes that had her/my name on 
-
-
-### 玩具
-
-!!!question "玩具"
-    describe a toy that you often played with as a child
-
-    + what kind of toy it was
-    + how old you are when you can got it
-    + whether you played with the toy by yourself or with other people
-
-    explain how you felt about this toy
-
-
-
+a gift of coat that had her/my name on 
 
 ## Place
 
-### 新到某地-乡村漫步-度假
+### 新到某地-乡村-漫步-度假
 
 !!!question "新到某地"
     describe a time that you remember being in a new place
@@ -491,7 +600,7 @@ Xinjiang
 
 ## Other
 
-### 不喜欢的规则
+### 不喜欢的规则-浪费时间-对不喜欢的人友善
 
 !!!question "规则-学校/工作中不喜欢的规定"
     Describe a rule you dislike and would like to change 
@@ -504,20 +613,25 @@ Xinjiang
 
 Idea: School Uniform
 
-### 令人激动的书
 
-!!!question "令人激动的书"
-    describe an exciting book that you enjoy reading
+!!!question "浪费时间的事情"
+    describe an activity you usually do that wastes your time
 
-    + what type of book it was
-    + why you read the book
-    + what the book was about
+    + what it is
+    + how long you have been doing it
+    + when do you usually do it 
 
-    explain why this book was so exciting
+    explain why you are still doing it knowing it is a waste of time
 
-Idea:
+!!!question "对不喜欢的人友善"
+    describe a time you were friendly to someone that you didn't like
 
-The capital!
+    + when and where it happened
+    + who he/she was
+    + why you didn't like this person
+
+    explain why you were friendly to him/her on that occasion
+
 ### 房子/搬家
 
 !!!question "房子"
@@ -553,7 +667,7 @@ surroudings:
 
 Special:
 
-+ 
++ nothing?
 
 Reason & Feel :
 

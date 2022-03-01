@@ -34,7 +34,8 @@ nav:
       - 中间代码生成及优化: cs/compilers/chap6.md
     - 人工智能导论:
       - 简介: cs/ai/index.md
-      - 第一课: cs/ai/lec1.md
+      - 第一课-概论: cs/ai/lec1.md
+      - 第二课-搜索(1): cs/ai/lec2.md
     - 工具:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md
@@ -79,11 +80,10 @@ nav:
     - 雅思写作:
       - Task1: ielts/writing/task1.md
       - Task2: ielts/writing/task2.md
-
     - 雅思口语:
       - Part1: ielts/speaking/part1.md
       - Part2: ielts/speaking/part2.md
-
+      - Part3: ielts/speaking/part3.md
   - 实用工具:
     - 简介: tools/index.md
     - 文献工具: tools/citations.md
