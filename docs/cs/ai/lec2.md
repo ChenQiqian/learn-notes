@@ -144,6 +144,7 @@ Notice: we can only stop when we **dequeue** a goal node
 estimations shouldn't have too much impact!
 
 Admissible Heuristics: (可采纳条件)
+
 $$
 0 \leq h(n) \leq h^*(n) ,\;\; \text{where h* is the {\color\red{true}} cost to a {\color\red{nearest}} goal }
 $$
