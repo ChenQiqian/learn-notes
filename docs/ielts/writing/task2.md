@@ -1,15 +1,16 @@
 # IELTS Writing Task2 
 
-## Objective
+## What about task 2
+
+250 words, 40 minutes, score weight 2/3
+
+##  # Objective
+
 
 1. Task Achievement
 2. Coherence & Cohesions
 3. Lexical Resources
 4. Grammatical Range
-
-## What about task 2
-
-250 words, 40 minutes, score weight 2/3
 
 ### Question Types
 
@@ -70,3 +71,44 @@ Question:
     + Point 3
     + Concession reasoning
 + The End: Conclusion
+
+## How to analyze the prompt
+
+### Recognize the core issue
+
+About a core issue:
+
+1. Agree / disagree (40%)
+2. Discuss both views + your own view (20%)
+    1. you need to recognize two side of views
+3. Positive or negative development (10%)
+4. Advantages outweigh disadvantages (10%)
+    1. you don't need to list both side, one side is enough
+
+**Usually you need a point for concession**
+
+**Use only one side of the viewpoint**
+
+1. choose 3 high viewpoint
+2. expand
+
+## How to organize a point
+
+The logical layers of viewpoint
+
++ high --> mid --> detail
+
++ abstract(conclusion) --> reasoning --> example
+
+**NOT LISTING YOUR POINTS**
+
+### Some abstract point:
+
++ Effectiveness & efficiency
++ Economy & finance
++ environment & health
++ equlity & fairness
++ feasibility & compatibility
++ culture & globalization
++ technology & internet
+

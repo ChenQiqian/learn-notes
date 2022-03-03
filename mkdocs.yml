@@ -36,6 +36,8 @@ nav:
       - 简介: cs/ai/index.md
       - 第一课-概论: cs/ai/lec1.md
       - 第二课-搜索(1): cs/ai/lec2.md
+    - 论文阅读:
+      - AutoMine: cs/paper_reading/automine.md
     - 工具:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md

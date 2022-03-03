@@ -38,8 +38,45 @@ something is expensive, some behaviour is exclusive
 
 ## 思路三：方便
 
+现状：Crazy tempo of life
+
+--> time is really valuable
+
+导致：
+
++ choose the fast and convenient transportation
++ technology products aim at bringing convenience to the users
++ choose to order meals online rather than cook themselves
+
 ## 思路四：健康
+
+现状： too much pressure makes people unhealthy
+
+解决： need to do things that make people healthy
+
+具体解决：
+
++ make a good work and rest schedule
++ particpate in healthy activites
++ self-discipline, pay attention to personal hygiene
 
 ## 思路五：独立
 
+现状： The relationship between people becomes estranged
+
+导致： People are getting more likely to focus on themselves
+
+解决：
+
++ we should learn to work and live independently
++ enhance the ability of independent learning
+
+
+
 ## 思路六：社交
+
+join in more social or community activities
+
+stengthen family relationship
+
+share our feelings and thoughts with other
