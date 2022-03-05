@@ -143,20 +143,23 @@ Elon Musk
 1.Famous person:
     A talented student in queen's university
     have a excellent person
-2. Business Person:
+2. Knowing him mainly from some technology forum in several years.
+    everytime he can come into the top lines of the news 
+3. Business Person:
     The CEO of Tesla, SpaceX
     --> making several billions of money a year
-3. Creative person & clever solution:
+4. Creative person & clever solution:
     Leading the world 
+    solve challenging problems in tjw wro
         by inventing the recyclable rocket
         ---> to cut down the price of single rocket 
-        by make electronic car come into reality
+        by making electronic cars come into reality
         ---> to improve the environment
 
 To me:
     admire him really much
     inspiring strength
-    when people are still customed with old traditions, he is the first person who stands out and tell everybody that it is not the eternal truth
+    when people are still accustomed yo old traditions, he is the first person who stands out and tells everybody that it is not the eternal truth
 ```
 
 
@@ -238,6 +241,8 @@ a foreign teacher (in the primary school)
     explain why this book was so exciting
 
 ```
+love story
+
 the game of thrones
 
 make a story of that
@@ -623,6 +628,10 @@ Idea: School Uniform
 
     explain why you are still doing it knowing it is a waste of time
 
+```
+surfing on the internet
+```
+
 !!!question "对不喜欢的人友善"
     describe a time you were friendly to someone that you didn't like
 
@@ -637,7 +646,7 @@ Idea: School Uniform
 !!!question "房子"
     describe the kind of house or apartment you would like to live in
 
-    + where this housee or apartment would be
+    + where this house or apartment would be
     + what it would look like
     + what would be special about the house or apartment
     

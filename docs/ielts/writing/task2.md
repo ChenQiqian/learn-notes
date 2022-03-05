@@ -112,3 +112,78 @@ The logical layers of viewpoint
 + culture & globalization
 + technology & internet
 
+
+## How to write
+### Opening Paragraph
+
+
+Hook + Transition + Points
+
++ intriguing: you need to add new information
++ coherent: add logical by transition
+    + you need to add logical connections
++ clear: show your point
+
+
+!!!note inline end
+    + ... have been widely discussed among ...
+    + such a fact leads to impressionable people to ...
+    + (simply) due to (n.) ..., some people claimed ...
+    + however, such statements suffers from ...
+    + I strongly hold that ...
+
+1. opposite detail --> opposite point
+    + can be used in the concession part
+2. they are wrong, can not be under careful examination
+3. high-level points are concerned ---> central view
+
+### Reasoning
+
+Coherent: High-Mid-Detail
+
+Adequate: Explanation, we cannot use very abstract language 
+
+Consistent: all evidences need to serve the mainpoint
+
+---
+
+1. Point 1 + [fact 1-1] 
+2. more specific, ...[fact 1-2]
+3. furthermore, [fact 1-3]
+4. optional filler: summary / conclusion / if / example
+
+--- 
+
+how to extend your point?
+
+1. follow, answer the question of why/how/what
+2. fight, you can fight against the opposite part
+3. follow & fight
+
+
+### Exemplication
+
+!!!note inline end
+    + ... indicates that ....
+    + take the case of ..., which ...
+    + as a result, ... 
+    + insertation,..., a typical ...., a well-known .... 
+
+1. point 2 --> central point
+2. character --> process --> result 
+3. Had it not been for (process paraphrase), (character) would never (result paraphrase).
+
+add more information!!!
+
+### Concession
+
+1. Nevertheless, a voice arises that (opposite response ...)
+2. Ironically, ...
+3. Therefore, ...
+
+### Ending
+
+
+1. In conclusion, I maintain that (...)
+2. Admittedly, as my favourite ..., and some people may oppose me.
+3. However, I think they will compromise after being exposed to my article
