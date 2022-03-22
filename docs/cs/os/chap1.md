@@ -119,7 +119,7 @@ terminal -> computer
 !!! info
 	这里是考试重点
 
-![image-20220113210930402](D:\learn-notes\docs\cs\os\image-20220113.png)
+![image-20220113210930402](image-20220113.png)
 
 Linux 有 72 个系统调用
 

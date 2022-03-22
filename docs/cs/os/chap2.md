@@ -509,7 +509,6 @@ e.g.  海图绘制
 
 5. 进程切换
 
-![image-20211025110517651](C:\Users\chenqq\AppData\Roaming\Typora\typora-user-images\image-20211025110517651.png)
 
 7. 调度算法
 

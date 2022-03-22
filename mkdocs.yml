@@ -23,8 +23,10 @@ nav:
       - 文件系统: cs/os/chap5.md
       - 操作系统安全: cs/os/chap6.md
       - 死锁: cs/os/chap7.md
-    - 计算机网络理论:
-      - 简介: cs/networking/index.md
+    - 并行/GPU编程:
+      - CUDA:
+        - 简介: cs/hpc/cuda/index.md
+        # - CUDA程序:
     - 编译原理:
       - 概论: cs/compilers/index.md
       - 前置知识: cs/compilers/chap1.md
@@ -36,10 +38,12 @@ nav:
       - 简介: cs/ai/index.md
       - 第一课-概论: cs/ai/lec1.md
       - 第二课-搜索(1): cs/ai/lec2.md
+      - 第三课-搜索(2): cs/ai/lec3.md
     - 论文阅读:
       - AutoMine: cs/paper_reading/automine.md
     - 工具:
       - GitHub: cs/tools/github/index.md
+      - CMake: cs/tools/cmake/index.md
       - 正则表达式: cs/tools/reg/index.md
       - ANTLR:
         - 简介: cs/tools/antlr/index.md
@@ -49,8 +53,9 @@ nav:
       - 简介: programlang/ts/index.md
   - 数学基础:
     - 简介: math/index.md
-    - 微积分:
-      - 简介: math/calculus/index.md
+    - 数理逻辑:
+      - 命题逻辑: math/logic/proposition.md
+      - 谓词逻辑: math/logic/first_order.md
     - 复变函数: 
       - 简介: math/complex_functions/index.md
       - 作业: math/complex_functions/hw.md
@@ -78,14 +83,14 @@ nav:
       - 数字电路: 
           - 组合逻辑电路: physics/electronics/digital_electronics.md
           - 时序逻辑电路: physics/electronics/5.md
-  - 英语备考:
-    - 雅思写作:
-      - Task1: ielts/writing/task1.md
-      - Task2: ielts/writing/task2.md
-    - 雅思口语:
-      - Part1: ielts/speaking/part1.md
-      - Part2: ielts/speaking/part2.md
-      - Part3: ielts/speaking/part3.md
+  # - 英语备考:
+  #   - 雅思写作:
+  #     - Task1: ielts/writing/task1.md
+  #     - Task2: ielts/writing/task2.md
+  #   - 雅思口语:
+  #     - Part1: ielts/speaking/part1.md
+  #     - Part2: ielts/speaking/part2.md
+  #     - Part3: ielts/speaking/part3.md
   - 实用工具:
     - 简介: tools/index.md
     - 文献工具: tools/citations.md
