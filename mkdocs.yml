@@ -26,7 +26,8 @@ nav:
     - 并行/GPU编程:
       - CUDA:
         - 简介: cs/hpc/cuda/index.md
-        # - CUDA程序:
+        - CUDA 程序: cs/hpc/cuda/program.md
+        - CUDA 多 GPU 编程: cs/hpc/cuda/multiple_gpu.md
     - 编译原理:
       - 概论: cs/compilers/index.md
       - 前置知识: cs/compilers/chap1.md

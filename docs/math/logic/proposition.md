@@ -86,7 +86,7 @@
 
 公式 $A$ 和 $B$ 的值在命题变项 $p_1,p_2,\cdots,p_n$ 的任一解释下都相同
 
-记作：$A = B$ ， $A \lrArr B$ 
+记作：$A = B$ ， $A \Leftrightarrow B$ 
 
 #### 公式的等值与重言式的转化
 
@@ -194,7 +194,7 @@ $A$ 是一个公式， $X$ 是一个子公式；$X = Y$ ，那么拿 $Y$ 去替�
 
 合取/析取式：由文字的合取/析取组成的公式。【简单：仅有有限（$n$）个】
 
-性质：简单析取式是重言式 $\Lrarr$ 同时含 $p$ 和 $\lnot p$ ；简单合取式是矛盾式 $\Lrarr$ 同时含有 $p$ 和 $\lnot p$
+性质：简单析取式是重言式 $\Leftrightarrow$ 同时含 $p$ 和 $\lnot p$ ；简单合取式是矛盾式 $\Leftrightarrow$ 同时含有 $p$ 和 $\lnot p$
 
 【对合取式取析取】析取范式： $A_1 \wedge A_2 \wedge \cdots \wedge A_m$ ，其中 $A_i$ 是简单合取式
 
@@ -470,7 +470,7 @@ $P\vee((Q \vee R) \wedge S) = \vee P \wedge\vee QRS$
 
 #### 后缀表达式（逆波兰表达式）
 
-$P\vee((Q \vee R) \wedge S) = PQR \vee S \wedge \vee $
+$P\vee((Q \vee R) \wedge S) = PQR \vee S \wedge \vee$
 
 ### 罗素公理系统的扩充
 
@@ -500,13 +500,13 @@ $\vdash p \vee (q \vee r) \rightarrow q \vee (p \vee r)$
 
 证明：
 1. 定理10及代换： $\vdash p \rightarrow q \vee p, \color\red{\vdash r \rightarrow p \vee r}$
-3. 连用两次附加前提： $\vdash q \vee r \rightarrow q \vee (p \vee r), \color\red{\vdash p \vee (q \vee r) \rightarrow p \vee (q \vee (p \vee r))}$
-5. 交换律+三段论： $\vdash p \vee (q \vee (p \vee r)) \rightarrow  (q \vee (p \vee r)) \vee p, \color\red{\vdash p \vee (q \vee r) \rightarrow (q \vee (p \vee r )) \vee p}$
-7. 定理10及代换：$\vdash p \rightarrow q \vee p, \color\red{\vdash p \vee r \rightarrow q \vee (p \vee r )}$
-9. 公理2代换+三段论：$\vdash p \rightarrow p \vee r, \color\red{\vdash p \rightarrow q \vee (p \vee r)}$
-11. 附加前提：$\color\red{\vdash (q \vee (p \vee r)) \vee p \rightarrow (q \vee (p \vee r)) \vee (q \vee (p \vee r))}$
-12. 公理1代换：$\vdash p \vee p \rightarrow p,\color\red{\vdash (q \vee (p \vee r)) \vee (q \vee (p \vee r)) \rightarrow (q \vee (p \vee r))}$
-14. 三段论：$\color\red{\vdash (q \vee (p \vee r)) \vee p \rightarrow q \vee (p \vee r)}$
+2. 连用两次附加前提： $\vdash q \vee r \rightarrow q \vee (p \vee r), \color\red{\vdash p \vee (q \vee r) \rightarrow p \vee (q \vee (p \vee r))}$
+3. 交换律+三段论： $\vdash p \vee (q \vee (p \vee r)) \rightarrow  (q \vee (p \vee r)) \vee p, \color\red{\vdash p \vee (q \vee r) \rightarrow (q \vee (p \vee r )) \vee p}$
+4. 定理10及代换：$\vdash p \rightarrow q \vee p, \color\red{\vdash p \vee r \rightarrow q \vee (p \vee r )}$
+5. 公理2代换+三段论：$\vdash p \rightarrow p \vee r, \color\red{\vdash p \rightarrow q \vee (p \vee r)}$
+6. 附加前提：$\color\red{\vdash (q \vee (p \vee r)) \vee p \rightarrow (q \vee (p \vee r)) \vee (q \vee (p \vee r))}$
+7. 公理1代换：$\vdash p \vee p \rightarrow p,\color\red{\vdash (q \vee (p \vee r)) \vee (q \vee (p \vee r)) \rightarrow (q \vee (p \vee r))}$
+8. 三段论：$\color\red{\vdash (q \vee (p \vee r)) \vee p \rightarrow q \vee (p \vee r)}$
 9. 3和8三段论：$\color\red{\vdash p \vee (q \vee r) \rightarrow q \vee (p \vee r)}$
 
 ##### 定理17

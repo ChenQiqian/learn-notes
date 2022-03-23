@@ -158,7 +158,7 @@ $(\forall x)(...) = (\forall y)(...)$
 
 #### 定义
 
-$A \leftrightarrow B$ 普遍有效，记作 $A = B, A \Lrarr B$ .
+$A \leftrightarrow B$ 普遍有效，记作 $A = B, A \Leftrightarrow B$ .
 
 ### 等值式
 
