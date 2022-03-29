@@ -8,12 +8,13 @@ nav:
     - 简介: cs/index.md
     - 数据库:
       - 简介: cs/db/index.md
-      - MySQL 安装: cs/db/mysql-install.md
+      - MySQL 安装: cs/db/mysql_install.md
       - 关系模型: cs/db/relation.md
       - SQL 语句: cs/db/sql.md
       - 存储方案: cs/db/storage.md
       - 存储管理: cs/db/buffer.md
       - 索引技术: cs/db/indices.md
+      - 实体-关系模型: cs/db/er_model.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md
