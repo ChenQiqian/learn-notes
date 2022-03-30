@@ -6,6 +6,8 @@ edit_uri: ""
 nav:
   - 计算机科学: 
     - 简介: cs/index.md
+    - 自动机理论:
+      - 正则语言的性质: cs/automata/chap4.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
