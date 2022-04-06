@@ -6,7 +6,9 @@ window.MathJax = {
         displayMath: [
             ["\\[", "\\]"]
         ],
-        packages: {'[+]': ['boldsymbol']},
+        packages: {
+            '[+]': ['boldsymbol','mathtools']
+        },
         macros: {
             R: "{\\bf R}",
             bm: ["{\\boldsymbol #1}", 1]
@@ -18,7 +20,7 @@ window.MathJax = {
         ignoreHtmlClass: ".*|",
         processHtmlClass: "arithmatex"
     },
-    loader: {load: ['[tex]/boldsymbol']}
+    loader: {load: ['[tex]/boldsymbol','[tex]/mathtools']}
 };
 
 document$.subscribe(() => {

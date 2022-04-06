@@ -8,6 +8,7 @@ nav:
     - 简介: cs/index.md
     - 自动机理论:
       - 正则语言的性质: cs/automata/chap4.md
+      - 上下文无关文法与下推自动机: cs/automata/chap5.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
@@ -164,7 +165,11 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
