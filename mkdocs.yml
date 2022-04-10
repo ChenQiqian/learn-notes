@@ -83,11 +83,13 @@ nav:
       - 简介: math/stochastic_processes/index.md
       - 题目选摘: math/stochastic_processes/selected_hw.md
   - 物理基础:
+    - 电磁学:
+      - 恒定电流: physics/electromagnetics/16.md
+      - 磁场和磁力:
     - 电子学:
-      - 简介: physics/electronics/index.md
       - 数字电路: 
-          - 组合逻辑电路: physics/electronics/digital_electronics.md
-          - 时序逻辑电路: physics/electronics/5.md
+          - 组合逻辑电路: physics/digital_electronics/digital_electronics.md
+          - 时序逻辑电路: physics/digital_electronics/5.md
   # - 英语备考:
   #   - 雅思写作:
   #     - Task1: ielts/writing/task1.md
