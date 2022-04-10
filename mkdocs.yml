@@ -85,7 +85,7 @@ nav:
   - 物理基础:
     - 电磁学:
       - 恒定电流: physics/electromagnetics/16.md
-      - 磁场和磁力:
+      - 磁场和磁力: physics/electromagnetics/17.md
     - 电子学:
       - 数字电路: 
           - 组合逻辑电路: physics/digital_electronics/digital_electronics.md
