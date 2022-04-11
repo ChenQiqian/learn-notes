@@ -84,8 +84,11 @@ nav:
       - 题目选摘: math/stochastic_processes/selected_hw.md
   - 物理基础:
     - 电磁学:
+      - 静电场与电势、导体、电介质: physics/electromagnetics/12.md
       - 恒定电流: physics/electromagnetics/16.md
-      - 磁场和磁力: physics/electromagnetics/17.md
+      - 磁场、磁力、磁介质: physics/electromagnetics/17.md
+      - 电磁感应、麦克斯韦方程组: physics/electromagnetics/20.md
+
     - 电子学:
       - 数字电路: 
           - 组合逻辑电路: physics/digital_electronics/digital_electronics.md
