@@ -18,6 +18,7 @@ nav:
       - 存储管理: cs/db/buffer.md
       - 索引技术: cs/db/indices.md
       - 实体-关系模型: cs/db/er_model.md
+      - 关系范式: cs/db/relational_norm.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md
