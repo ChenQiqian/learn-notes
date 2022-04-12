@@ -53,7 +53,7 @@ if ! git config --get user.email; then
 fi
 
 
-export TZ CST-8
+export TZ="CST-8"
 
 git remote rm origin
 git remote add origin "${remote_repo}"

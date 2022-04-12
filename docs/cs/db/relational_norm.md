@@ -13,10 +13,6 @@ How to make a relation model "good"?
 + Avoid anomalies of insert, delete and update
     + facilitate the checking of modifications for violation of database integrity constraints
 
-## Decomposition
-
-!!!definition "Loseless Decomposition"
-    Decompose $R$ into $R_1$ and $R_2$, then it is **loseless** if and only if $\prod_{R_1}(r) \Join \prod_{R_2}(r) = R$ 。
 
     
 ## First Normal Form
@@ -36,9 +32,8 @@ for every legal $r(R)$
 
 Use $(\cdot)^+$ to denote clousure
 
-#### Functional Dependency
-
-#### Attribute Set
++ Functional Dependency
++ Attribute Set
 
 ### Armstrong rules 
 
@@ -55,7 +50,7 @@ Other rules:
 + Pseudotransitivity rule
 
 
-### Extraneous
+### Extraneous Attributes
 
 Extraneous: we can remove any attributes from a functional dependency.
 
@@ -63,14 +58,36 @@ Extraneous: we can remove any attributes from a functional dependency.
 
 $F_c$ is the Canonical Cover of $F$ if:
 
-+ $F_c$ implies all functional dependency in $F$
++ $F_c$ implies all functional dependency in $F$ (also reversely)
 + no functional dependency is extraneous
 + no functional dependency share same left hand side
 
 
-## Restriction 
+### Dependency preservation 
 
-restriction of $F$ to $R_i$
+$F_i$ is the restriction of $F$ to $R_i$:
+
+all functional dependencies in $F^+$ that include only attributes of $R_i$
+
+dependency-preserving decomposition:
+
+$F' = \bigcup F_i$, $F^+ = F'^+$
+
+## Decomposition
+
+!!!definition "Loseless Decomposition"
+    Decompose $R$ into $R_1$ and $R_2$, then it is **loseless** if and only if $\prod_{R_1}(r) \Join \prod_{R_2}(r) = R$ 。
 
 !!!theorem
-    If $R_1 \cap R_2$ forms a superkey for either $R_1$ and $R_2$, then this decomposition is loseless.
+    If $R_1 \cap R_2$ forms a superkey for **either** $R_1$ **or** $R_2$, then this decomposition is loseless.
+
+
+## Decomposition Algorithm
+
+### BCNF
+
+### 3NF
+
+
+
+
