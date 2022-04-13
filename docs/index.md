@@ -1,7 +1,5 @@
 # Minimal Stack
 
-*cqqqwq*
-
 他从栈顶向下望去，高处不胜寒。
 
 Other Links:
