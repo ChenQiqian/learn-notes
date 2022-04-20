@@ -86,6 +86,8 @@ $F' = \bigcup F_i$, $F^+ = F'^+$
 
 ### BCNF
 
+![](relational_norm.assets/2022-04-18-12-49-51.png)
+
 ### 3NF
 
 
