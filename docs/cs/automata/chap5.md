@@ -1,4 +1,3 @@
-
 # Context Free Grammar & Pushdown Automata
 
 ## 上下文无关文法（CFG）
@@ -67,3 +66,11 @@
 $$L(G) = \{w \mid w \in T^* , S \xRightarrow[G]{*} w\}$$
 
 即为**上下文无关语言**。
+
+## 下推自动机
+
+### 形式化定义
+
+### 推导
+
+## 上下文无关文法与下推自动机的转换

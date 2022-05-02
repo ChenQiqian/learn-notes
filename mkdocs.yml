@@ -53,6 +53,8 @@ nav:
       - 正则表达式: cs/tools/reg/index.md
       - ANTLR:
         - 简介: cs/tools/antlr/index.md
+      - JetBrains:
+        - 简介: cs/tools/jetbrains/index.md
   - 编程语言:
     - 简介: programlang/index.md
     - Typescript:
@@ -108,13 +110,15 @@ nav:
 theme:
   name: material
   language: zh
+  logo: static/book-stack-white-128.png
+  favicon: static/book-stack-128.png
   features:
     - navigation.instant
     - navigation.tabs
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
-      primary: red
+      primary: light blue
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
