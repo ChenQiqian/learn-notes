@@ -22,7 +22,7 @@ nav:
       - 实体-关系模型: cs/db/er_model.md
       - 关系范式: cs/db/relational_norm.md
       - HSQLDB 实验:
-        - 简介: cs/db/hsqldb.md
+        - 简介: cs/db/hsqldb/index.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md
@@ -49,6 +49,10 @@ nav:
       - 第一课-概论: cs/ai/lec1.md
       - 第二课-搜索(1): cs/ai/lec2.md
       - 第三课-搜索(2): cs/ai/lec3.md
+      - 第九课-推理(1): cs/ai/lec4.md
+    - 量子计算:
+      - 简介: cs/quantum/index.md
+      - Clifford 电路: cs/quantum/clifford.md
     - 论文阅读:
       - AutoMine: cs/paper_reading/automine.md
     - 工具:
@@ -115,7 +119,7 @@ theme:
   name: material
   language: zh
   logo: static/book-stack-white-128.png
-  favicon: static/book-stack-128.png
+  favicon: static/book-stack-white-128.png
   features:
     - navigation.instant
     - navigation.tabs
@@ -138,7 +142,12 @@ plugins:
         type: iso_datetime
         fallback_to_build_date: true
         enable_creation_date: true
-    - search:
+        timezone: Asia/Shanghai
+    - search
+    - minify:
+        minify_html: true
+        htmlmin_opts:
+            remove_comments: true
     # - encryptcontent: 
     #     global_password: ""
     #     title_prefix: '[已加密]'
