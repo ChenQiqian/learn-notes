@@ -19,6 +19,7 @@ nav:
       - 存储方案: cs/db/storage.md
       - 存储管理: cs/db/buffer.md
       - 索引技术: cs/db/indices.md
+      - 查询优化: cs/db/query_optimization.md
       - 实体-关系模型: cs/db/er_model.md
       - 关系范式: cs/db/relational_norm.md
       - HSQLDB 实验:
@@ -49,7 +50,7 @@ nav:
       - 第一课-概论: cs/ai/lec1.md
       - 第二课-搜索(1): cs/ai/lec2.md
       - 第三课-搜索(2): cs/ai/lec3.md
-      - 第九课-推理(1): cs/ai/lec4.md
+      - 第九课-推理(1): cs/ai/lec9.md
     - 量子计算:
       - 简介: cs/quantum/index.md
       - Clifford 电路: cs/quantum/clifford.md

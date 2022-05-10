@@ -35,7 +35,7 @@ Inference: How to compute $p(R \mid C)$ effciently?
 
 概率图模型。
 
-We try to use graph to describe the correlation and dependence relationships between random varibales.
+We try to use graphs to describe the correlation and dependence relationships between random variables.
 
 + Vertex: Random variable
 + Edge: Their relationship
@@ -56,7 +56,7 @@ Bayesian Network:
 
     Pro: Every conditional distribution of a random variable is *reasonable*.
 
-    A totally white box!
+    A white box!
 
 !!!example "Example: Polynomial Regression" 
     ![](lec9.assets/2022-05-10-00-07-32.png)    
@@ -84,3 +84,67 @@ $$
 
     + Linking the parents of each node;
     + remove directions.
+
+## Independence in Bayesian Network
+
+### Marginal Independence
+
+![](lec9.assets/2022-05-10-12-33-27.png)
+
+### Conditional Independence
+
+![](lec9.assets/2022-05-10-12-32-53.png)
+
+
+### D-separation
+
+connected if:
+
+1. no head-to-head edge
+2. head-to-head edge belongs to C or C's ancestor
+
+D-separation $\iff$ conditional independence
+
+### Markov Blanket
+
+!!!question
+    How to infer a node with variable $x_i$ from the remaining variables?
+
+Solution:
+
+Find $S_1 \subset \bm x_\{j \neq i\}$ that 
+
+$$
+x_i \perp (\bm x_{\{j \neq i\}} \setminus S_1) \mid S_1
+$$
+
+which means $S_1$ contains all information that is needed to infer  $x_i$.
+
+!!!definition "$S_1$ is the Markov blanket of $x_i$."
+
+
+!!!note 
+    Markov Boundary: Minimal Markov blanket.
+    
+    In Bayesian network, it includes parents, children and other parents of all its children (co-parents).
+
+## Independence in Markov Random Field
+
+$x,y$ are dependent if they are connected by a path of unobserved variables
+
+!!!theorem "Global Markov Property"
+    If any path from $\bm A$ to $\bm B$ passes through $\bm C$, which denotes as $\text{sep}_G(\bm A, \bm B \mid \bm C)$, then $( \bm X_A \perp \bm X_B ) \mid \bm X_C$
+
+!!!theorem "Local Markov Property"
+    For any node $x$, $N(x)$ denotes neighbours of $x$, $N[x] = x \cup N(x)$, then  $X_x \perp \bm X_{V \setminus N[x]} \mid \bm X_{N(x)}$
+
+!!!theorem "Pairwise Markov Property"
+    If $u$ and $v$ are not linked, then $X_u \perp X_v \mid \bm X_{V\setminus\{u,v\}}$ .
+
+## 
+
+Marginal Inference
+
+$$
+p(y=1) = \sum_{x_1}\sum_{x_2} \cdots \sum_{x_n} p(y=1, x_1, \cdots, x_n)
+$$ 
