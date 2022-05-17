@@ -11,6 +11,7 @@ nav:
       - 上下文无关文法与下推自动机: cs/automata/chap5.md
       - 确定下推自动机: cs/automata/chap6.md
       - 上下文无关文法的性质: cs/automata/chap7.md
+      - 上下文无关语言的性质: cs/automata/chap10.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
@@ -22,6 +23,7 @@ nav:
       - 查询优化: cs/db/query_optimization.md
       - 实体-关系模型: cs/db/er_model.md
       - 关系范式: cs/db/relational_norm.md
+      - 事务: cs/db/transaction.md
       - HSQLDB 实验:
         - 简介: cs/db/hsqldb/index.md
     - 操作系统:
