@@ -24,8 +24,7 @@ nav:
       - 实体-关系模型: cs/db/er_model.md
       - 关系范式: cs/db/relational_norm.md
       - 事务: cs/db/transaction.md
-      - HSQLDB 实验:
-        - 简介: cs/db/hsqldb/index.md
+      - HSQLDB 实验: cs/db/hsqldb/index.md
     - 操作系统:
       - 简介: cs/os/index.md
       - 操作系统概述: cs/os/chap1.md
@@ -60,27 +59,27 @@ nav:
       - AutoMine: cs/paper_reading/automine.md
     - 工具:
       - GitHub: cs/tools/github/index.md
-      - CMake: cs/tools/cmake/index.md
       - 正则表达式: cs/tools/reg/index.md
-      - ANTLR:
-        - 简介: cs/tools/antlr/index.md
-      - JetBrains:
-        - 简介: cs/tools/jetbrains/index.md
-  - 编程语言:
-    - 简介: programlang/index.md
-    - Typescript:
-      - 简介: programlang/ts/index.md
+      - JetBrains: cs/tools/jetbrains/index.md
+  - 编程语言及开发工具:
+    - 简介: programming/index.md
+    - Typescript: programming/ts/index.md
+    - ANTLR: programming/antlr/index.md
+    - CMake: programming/cmake/index.md
+    - Thrift: programming/thrift/index.md
   - 数学基础:
     - 简介: math/index.md
     - 数理逻辑:
       - 命题逻辑: math/logic/proposition.md
       - 谓词逻辑: math/logic/first_order.md
-    - 复变函数: 
-      - 简介: math/complex_functions/index.md
-      - 作业: math/complex_functions/hw.md
     - 线性代数:
       - 简介: math/linear_algebra/index.md
       - 技巧: math/linear_algebra/techniques.md
+    - 抽象代数:
+      - 简介: math/abstract_algebra/index.md
+    - 复变函数: 
+      - 简介: math/complex_functions/index.md
+      - 作业: math/complex_functions/hw.md
     - 概率论:
       - 简介: math/probability/index.md
       - 事件、概率: math/probability/basic_concepts.md
