@@ -37,20 +37,25 @@
 > ![](index.assets/2022-05-31-00-40-24.png)
 
 
-> Transport 层：代表 Thrift 的**数据传输方式**， Thrift 定义了如下几种常用数据传输方式：
+以下部分内容来自于 [这篇文章](https://juejin.cn/post/6844903622380093447)。
+> Thrift 软件栈分层从下向上分别为：传输层(Transport Layer)、协议层(Protocol Layer)、处理层(Processor Layer)和服务层(Server Layer)。
+>
+> Transport 层：Transport 层负责直接从网络中读取和写入数据，它定义了具体的**网络传输协议**；比如说TCP/IP传输等。Thrift 定义了如下几种常用数据传输方式：
 > 
 > + TSocket: 阻塞式socket；
 > + TFramedTransport: 以frame为单位进行传输，非阻塞式服务中使用；
 > + TFileTransport: 以文件形式进行传输。
 > 
-> TProtocol 层：代表 Thrift 客户端和服务端之间**传输数据的协议**，通俗来讲就是客户端和服务端之间传输数据的格式(例如json等)，thrift定义了如下几种常见的格式：
+> Protocol 层：Protocol 层定义了**数据传输格式**，负责网络传输数据的序列化和反序列化；比如说JSON、XML、二进制数据等。thrift定义了如下几种常见的格式：
 > 
 > + TBinaryProtocol: 二进制格式；
 > + TCompactProtocol: 压缩格式；
 > + TJSONProtocol: JSON格式；
 > + TSimpleJSONProtocol: 提供只写的JSON协议。
+>
+> 处理层(Processor Layer)：处理层是由具体的IDL（接口描述语言）生成的，封装了具体的底层网络传输和序列化方式，并委托给用户实现的Handler进行处理。
 > 
-> Server 模型：指定 Server 端采用的**模型**
+> 服务层(Server Layer)：整合上述组件，提供具体的网络线程/IO服务模型，形成最终的服务。
 > 
 > + TSimpleServer: 简单的单线程服务模型，常用于测试；
 > + TThreadPoolServer: 多线程服务模型，使用标准的阻塞式IO；
@@ -60,3 +65,164 @@
 简单来说，我的理解就是：
 
 > 一个 Server - Client 模型程序的实现方法。
+
+## Thrift 文件
+
+接下来比较重要的就是 `.thrift` 文件的编写。下面介绍一些基本的 `.thrift` 文件中的元素。
+
+参考了：
+
++ [Thrift RPC 系列教程（1）——Thrift语言 - hezhiming的文章 - 知乎](https://zhuanlan.zhihu.com/p/48653455)
++ https://thrift-tutorial.readthedocs.io/en/latest/thrift-types.html
+
+
+### 数据类型
+
+基础的有：
+
+* bool: A boolean value (true or false)
+* byte: An 8-bit signed integer
+* i16: A 16-bit signed integer
+* i32: A 32-bit signed integer
+* i64: A 64-bit signed integer
+* double: A 64-bit floating point number
+* string: A text string encoded using UTF-8 encoding
+
+和一般的编程语言类似。
+
+复杂的有：
+
+* list: An ordered list of elements. Translates to an **STL vector**, Java ArrayList, native arrays in scripting languages, etc.
+* set: An unordered set of unique elements. Translates to an **STL set**, Java HashSet, set in Python, etc. Note: PHP does not support sets, so it is treated similar to a List
+* map: A map of strictly unique keys to values. Translates to an **STL map**, Java HashMap, PHP associative array, Python/Ruby dictionary, etc. While defaults are provided, the type mappings are not explicitly fixed. Custom code gesnerator directives have been added to allow substitution of custom types in various destination languages
+
+### Struct 结构体定义
+
+```cpp
+struct Person {
+    1: required string name; // 必须字段，很明确
+    2: required i64 age;
+    3: optional string addr; // 可选字段
+    4: optional string defaultValue = "DEFAULT"; // 默认字段
+    5: string otherValue; // 不是很明确!
+}
+```
+
+就是一种复合的数据类型
+
+### Exception 异常定义
+
+```
+exception InvalidOperation {
+  1: i32 whatOp,
+  2: string why
+}
+```
+
+和类是类似的
+
+### Enum 枚举定义
+
+```
+enum Operation { // 功能着实比较孱弱
+  ADD = 1,
+  SUBTRACT = 2,
+  MULTIPLY = 3,
+  DIVIDE = 4
+}
+```
+
+### Service / Interfaces 接口
+
+```
+// 接口, 还可以继承, 也许我们有时候可以搞个 『BaseService』 之类的，不过我很少用到。
+service CalculatorService extends shared.SharedService {  
+	
+    // 正常方法，和C++这类传统语言，基本一模一样。
+   void ping(),
+
+   i32 add(1:i32 num1, 2:i32 num2),
+
+   i32 calculate(1:i32 logid, 2:Work w) throws (1:InvalidOperation ouch),
+	
+    // 特殊方法，基本很少用到了，在我有限的经历中，只使用过一次，读者没必要关注它
+   oneway void zip()
+
+}
+```
+
+## 实现接口
+
+和一系列的框架类似，仍然是通过继承 Thrift 自动生成的代码类来实现自己的接口功能。
+
+### 编译（？） Thrift 文件成为代码
+
+目前是 Maven 自动管理了这一过程，`maven compile` 的过程中就会生成。
+
+### Client 端
+
+```java
+// transport - procotol - client 的初始化结构
+transport = new TSocket(host, port);
+transport.open();
+protocol = new TBinaryProtocol(transport);
+client = new CalculatorService.Client(protocol)
+```
+
+```java
+// 调用接口
+client.add(a,b);
+```
+
+```java
+// 记得关闭 Transport
+transport.close();
+```
+
+可以回顾一下上文提到的 Transport - Protocol 层次结构。Transport 代表使用什么载具（socket？）进行传输，而 Protocol 则规定了传输的格式。
+
+
+### Server 端
+
+与上面的 Client 类，在 Server 端对应的是 Processor 类。Processor 类会把服务委托给 用户实现的 Handler。
+
+用户实现的 Handler 需要继承 Iface 类。
+
+```java
+public class CalculatorServiceHandler implements CalculatorService.Iface {
+    @Override
+    public int getTime(int a, int b) throws TException {
+        return a + b;
+    }
+}
+```
+
+然后用户实现的 Server （可以单例模式）：
+
+```java
+public class SimpleServer {
+    public static void main(String[] args) throws Exception {
+
+        // Processor 的 初始化，指定 Handler
+        CalculatorService.Processor processor =
+                new CalculatorService.Processor<CalculatorService.Iface>(new CalculatorServiceHandler());
+
+        // TServerSocket? 应该算 Transport 
+        TServerSocket serverTransport = new TServerSocket(DEFAULT_SERVER_PORT);
+        
+        TSimpleServer.Args tArgs = new TSimpleServer.Args(serverTransport);
+        tArgs.processor(processor);
+
+        // TProtocol ，协议（似乎不是必要的）
+        TBinaryProtocol.Factory protocolFactory = new TBinaryProtocol.Factory();
+        tArgs.protocolFactory(protocolFactory);
+
+        // 指定 Server 模型
+        TServer tServer = new TSimpleServer(tArgs);
+        System.out.println("Running Simple Server");
+        tServer.serve();
+    }
+}
+```
+
+还有很多其他的方法，但是在这里只是给出需要什么内容来构建一个基本的 Server。（毕竟是随便写的）
