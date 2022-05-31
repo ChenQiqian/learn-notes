@@ -24,6 +24,7 @@ nav:
       - 实体-关系模型: cs/db/er_model.md
       - 关系范式: cs/db/relational_norm.md
       - 事务: cs/db/transaction.md
+      - 恢复: cs/db/recovery.md
       - HSQLDB 实验: cs/db/hsqldb/index.md
     - 操作系统:
       - 简介: cs/os/index.md
