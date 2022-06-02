@@ -215,7 +215,7 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax_config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax_min.js
   - javascripts/mathjax_render.js
 extra_css: 
   - stylesheets/extra.css
