@@ -6,7 +6,7 @@ edit_uri: ""
 nav:
   - 计算机科学: 
     - 简介: cs/index.md
-    - 如何系统学习计算机科学？: cs/how_to_learn_cs.md
+    - 系统学习计算机科学指北: cs/how_to_learn_cs.md
     - 自动机理论:
       - 正则语言的性质: cs/automata/chap4.md
       - 上下文无关文法与下推自动机: cs/automata/chap5.md
