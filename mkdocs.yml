@@ -12,6 +12,10 @@ nav:
       - 确定下推自动机: cs/automata/chap6.md
       - 上下文无关文法的性质: cs/automata/chap7.md
       - 上下文无关语言的性质: cs/automata/chap10.md
+    - 算法:
+      - 简介: cs/algorithms/index.md
+      - 基础: cs/algorithms/foundation.md
+      - 分治/递归算法: cs/algorithms/divide.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
