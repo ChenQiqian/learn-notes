@@ -22,7 +22,3 @@ window.MathJax = {
     },
     loader: {load: ['[tex]/boldsymbol','[tex]/mathtools']}
 };
-
-document$.subscribe(() => {
-    MathJax.typesetPromise()
-})

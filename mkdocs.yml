@@ -17,6 +17,7 @@ nav:
       - 简介: cs/algorithms/index.md
       - 基础: cs/algorithms/foundation.md
       - 分治/递归算法: cs/algorithms/divide.md
+      - 排序算法: cs/algorithms/sorting.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
@@ -212,9 +213,10 @@ markdown_extensions:
 # add mathjax support
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#supported-extensions
 extra_javascript:
-  - javascripts/mathjax.js
+  - javascripts/mathjax_config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax_render.js
 extra_css: 
   - stylesheets/extra.css
   - stylesheets/slates.css
