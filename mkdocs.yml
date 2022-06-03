@@ -18,6 +18,8 @@ nav:
       - 基础: cs/algorithms/foundation.md
       - 分治/递归算法: cs/algorithms/divide.md
       - 排序算法: cs/algorithms/sorting.md
+      - 动态规划: cs/algorithms/dynamic_programming.md
+      - 贪心算法: cs/algorithms/greedy_algorithm.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
