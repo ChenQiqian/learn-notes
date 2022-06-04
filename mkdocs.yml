@@ -20,6 +20,7 @@ nav:
       - 排序算法: cs/algorithms/sorting.md
       - 动态规划: cs/algorithms/dynamic_programming.md
       - 贪心算法: cs/algorithms/greedy_algorithm.md
+      - 摊还分析: cs/algorithms/amortized_analysis.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
