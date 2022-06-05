@@ -13,6 +13,8 @@ nav:
       - 确定下推自动机: cs/automata/chap6.md
       - 上下文无关文法的性质: cs/automata/chap7.md
       - 上下文无关语言的性质: cs/automata/chap10.md
+    - 计算理论:
+      - P & NP & NP complete: cs/theory/p_np_npc.md
     - 算法:
       - 简介: cs/algorithms/index.md
       - 基础: cs/algorithms/foundation.md
@@ -68,6 +70,7 @@ nav:
     - 论文阅读:
       - AutoMine: cs/paper_reading/automine.md
       - Pattern Matching for QCO: cs/paper_reading/pattern_matching_qc.md
+      - Automated Optimization for large scale QC: cs/paper_reading/auto_opt_large_scale_qc.md
     - 工具:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md
@@ -112,6 +115,8 @@ nav:
       - 恒定电流: physics/electromagnetics/16.md
       - 磁场、磁力、磁介质: physics/electromagnetics/17.md
       - 电磁感应、麦克斯韦方程组: physics/electromagnetics/20.md
+    - 光学:
+      - 干涉: physics/optics/22.md
 
     - 电子学:
       - 数字电路: 
