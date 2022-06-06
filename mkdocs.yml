@@ -73,6 +73,7 @@ nav:
       - AutoMine: cs/paper_reading/automine.md
       - Pattern Matching for QCO: cs/paper_reading/pattern_matching_qc.md
       - Automated Optimization for large scale QC: cs/paper_reading/auto_opt_large_scale_qc.md
+      - Quantum fan-out: cs/paper_reading/quantum_fan_out.md
     - 工具:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md
