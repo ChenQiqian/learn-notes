@@ -120,6 +120,8 @@ nav:
       - 电磁感应、麦克斯韦方程组: physics/electromagnetics/20.md
     - 光学:
       - 干涉: physics/optics/22.md
+      - 衍射: physics/optics/23.md
+      - 偏振FSAAAAAAAAAAAAAAAAAA: physics/optics/24.md
 
     - 电子学:
       - 数字电路: 
