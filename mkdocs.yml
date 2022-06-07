@@ -121,8 +121,10 @@ nav:
     - 光学:
       - 干涉: physics/optics/22.md
       - 衍射: physics/optics/23.md
-      - 偏振FSAAAAAAAAAAAAAAAAAA: physics/optics/24.md
-
+      - 偏振: physics/optics/24.md
+    - 量子物理:
+      - 波粒二象性: physics/quantum_physics/26.md
+      - 薛定谔方程: physics/quantum_physics/27.md
     - 电子学:
       - 数字电路: 
           - 组合逻辑电路: physics/digital_electronics/digital_electronics.md
