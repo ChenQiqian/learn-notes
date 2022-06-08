@@ -1,6 +1,8 @@
 # SQL 语句
 
-## 创建表格
+## 表操作
+
+### 创建
 
 ```sql
 CREATE TABLE student (
@@ -23,6 +25,37 @@ CREATE TABLE enrolled (
 );
 ```
 
+（课件：
+
+数值形如 `numeric(3, 1)`
+
+约束写在最后面，如：
+
+```sql
+primary key(ID, course_id),
+foreign key(ID, ...) references student,
+```
+
+）
+
+### 删除
+
+```sql
+drop table r;
+```
+
+### 修改
+
+```sql
+alter table r add A D;
+```
+
+(新值被赋予 null)
+
+```sql
+alter table r drop A;
+```
+
 ## 查
 
 ### 基本：SFW语句
@@ -33,6 +66,12 @@ FROM enrolled AS e, student AS s
 WHERE e.grade = 'A' AND e.cid = '15-721'
 AND e.sid = s.sid;
 ```
+
+`AS` 来换名
+
+`is null` 
+
+![](sql.assets/2022-06-09-01-24-29.png)
 
 ### 聚合属性
 
@@ -50,6 +89,7 @@ select 里面非聚合的属性必须在 `GROUP BY` 语句中出现。
     GROUP BY e.cid;
     ```
 `HAVING` 语句可以根据聚合属性进一步筛选。
+
 
 !!!example
     ```sql
@@ -89,6 +129,8 @@ select 里面非聚合的属性必须在 `GROUP BY` 语句中出现。
 
 `EXISTS` ...
 
+`> SOME( subquery)`
+
 !!!example
     ```sql
     SELECT name FROM student
@@ -110,8 +152,7 @@ FROM enrolled ORDER BY cid;
 SELECT cid, sid, ROW_NUMBER() OVER (PARTITION BY cid) 
 FROM enrolled ORDER BY cid;
 ```
-
-## Common Table Expression(CTE)
+### Common Table Expression(CTE)
 
 用 `WITH ... AS... ` 定义表格，简化 `SELECT` 的查询
 
@@ -132,13 +173,38 @@ SELECT * from cte1, cte2;
     SELECT * FROM cte;
     ```
 
+## 删除
+
+```sql
+delete from r
+where r.A = 'b';
+```
+
+## 插入
+
+```sql
+insert into course [(course_id, ...)]
+values('a', 'b', 123, 'd');
+```
+
+## 改
+
+```sql
+update instructor
+set salary = salary * 1.03
+where salary > 100000;
+```
+
+### where 中的子查询
+
+
 ## 字符串
 
 `%` 匹配任意子串（包括空）
 
 `_` 匹配任意一个字符
 
-`||` 连接两个字符串 th
+`||` 连接两个字符串
 
 ## 数据表示
 
