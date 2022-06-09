@@ -24,7 +24,7 @@ nav:
       - 贪心算法: cs/algorithms/greedy_algorithm.md
       - 摊还分析: cs/algorithms/amortized_analysis.md
       - 字符串匹配: cs/algorithms/string_matching.md
-      - 近似算法: cs/algorithms/approxmation_algorithm.md
+      - 近似算法: cs/algorithms/approximation_algorithm.md
     - 数据库:
       - 简介: cs/db/index.md
       - MySQL 安装: cs/db/mysql_install.md
