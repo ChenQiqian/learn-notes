@@ -65,9 +65,26 @@ pushdown something, reduce size earlier
 
 ### Selection cost estimation
 
+Assume that data are uniform distribution in $[\min(A,r), \max(A,r)]$
+
+Selectivity $s_r$ under these operation can be calculated by simple production rule.
+
+1. 合取（$\wedge$）
+2. 析取（$\vee$）
+
 ### Join operation cost estimation
 
-### Production, Aggregate and Set operation cost estimation 
+$V(A,r)$ is count of distinct values in attribute A of r 
+
+1. $R \cap S = \emptyset$ : 直接乘起来就行
+2. $R \cap S$ is a super key of $R$($S$) : then the maximum number of join is just the size of $S$($R$)
+3. $R \cap S$ is not any key for $R$ or $S$, we use ,the estimation of $\frac{n_r \times n_s}{\max{(V(A,s), V(A,r))}}$
+
+
+### Other Operation
+
++ Production & Aggregate: V
++ Outer Join: $s(n_r \Join n_s) + n_r + n_s$
 
 ### Attributes scale estimation
 
@@ -75,4 +92,12 @@ pushdown something, reduce size earlier
 
 ### Dynamic Programming Algorithm
 
+Use Dynamic Programming to minimum join operation's cost (like matrix chain multiply)
+
 ### Heuristic optimization
+
+Rules:
+
++ Perform selection **early** (reduces the number of tuples)
++ Perform projection **early** (reduces the number of attributes)
++ Perform most restrictive selection and join operations (i.e. with smallest result size) **before** other similar operations.

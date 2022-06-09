@@ -76,3 +76,15 @@ B+ Tree 和 B-Tree 很类似，就是多(M)叉平衡树，唯一的区别就是 
 1. Prefix Compression
 2. Deduplication
 3. Bulk Insert: build from bottom to top to avoid unnecessary split
+
+## Other Indexes
+
+### Static Hashing / Dynamic Hashing
+
+Static: fix numbers of buckets
+
+Dynamic: 
+
+### Bitmap Index
+
+0/1 bitmap

@@ -2,6 +2,23 @@
 
 数据库所有的数据都存储在磁盘上。
 
+
+## 记录的存储
+
+### 定长记录
+
+每个 tuple 用连续的，相同长度的数组来存储
+
+可以用自由链表来回收空位置。
+
+### 变长记录
+
+1. 最开始，定长部分存偏移和长度
+2. 不变长的直接存
+3. 用一个 bitmap 记录是否是空
+
+![](storage.assets/2022-06-09-16-47-19.png)
+
 ## Storage Manager
 
 页式存储。
@@ -48,7 +65,7 @@ Slot 记录 Tuple 的起始位置。
 
 删除和增加的时候都利用 Slot 进行。
 
-### Page Layout: Log Structured
+### Page Layout: Log Structured 
 
 只维护 log 记录。
 
@@ -74,6 +91,6 @@ Data: 以 CREATE 语句中的顺序依次存储。
 
 |     Name     |     N-ary Storage Model(NSM)     | Decomposition Storage Model(DSM) |
 | :-----------: | :-------------------------------: | :------------------------------: |
-|  Description  |           按照行来存储           |           按照列来存储           |
-|  Advantages  | 快速的插入<br />整个 Tuple 的读取 |  读取比较高效<br />可以比较压缩  |
-| Disadvantages |      大规模读取引入无关信息      |        单点查询和插入较慢        |
+|  Description  |           按照行来存储           |           按照列来存储            |
+|  Advantages  | 快速的插入<br />整个 Tuple 的读取 |  读取比较高效<br />可以比较压缩     |
+| Disadvantages |      大规模读取引入无关信息      |        单点查询和插入较慢           |
