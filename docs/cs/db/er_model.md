@@ -42,18 +42,30 @@ Entity set:
 
 ![](ermodel/entityset.jpg)
 
+Complex attributes:
+
+![](er_model.assets/2022-06-09-14-25-00.png)
+
+> `{...}` means multiple value attribute, `...()` means derived attribute
+
 Relationship set:
 
 (binary)
 
 ![](ermodel/relationshipset.jpg)
 
+> The box below is an "attribute set"
+
 (multiple)
 
 ![](ermodel/relationshipset2.jpg)
 
+(multiple occurance, add a role)
 
-## mappng cardinality
+![](er_model.assets/2022-06-09-14-29-56.png)
+
+
+## mapping cardinality
 
 Four types:
 
@@ -64,9 +76,13 @@ Four types:
 
 ![](./ermodel/cardinary.jpg)
 
+> arrow means: (the other side) can only appear once
+
 ## Participation
 
 ![](./ermodel/participation.jpg)
+
+> double line means total partipation
 
 
 ## Weak Entity Sets
@@ -77,6 +93,12 @@ Four types:
 We use extra attributes called **discriminator** to uniquely identify a weak entity. 
 
 ![](./ermodel/weakentity.jpg)
+
+> double line frame, double line relationship set
+> 
+> mostly: all participation, one-to-many 
+>
+> dot lines to mark the primary key 
 
 ## Reduction to Relation Schemas
 
@@ -95,7 +117,7 @@ We can reduce *entity sets* and *relationship sets* uniformly as **relation sche
 
 one-one / one-many / many-one relationship: "many" can be added to the "one" side as extra attributes
 
-The schema corresponding to a relationship set linking a weak entity set to its identifying string entity set is redundant (why?)
+The schema corresponding to **a relationship set linking a weak entity set to its identifying string entity set is redundant**
 
 ## Advanced Topic
 
@@ -106,6 +128,10 @@ The schema corresponding to a relationship set linking a weak entity set to its 
 OOP extension
 
 ### Aggregation
+
+![](er_model.assets/2022-06-09-14-57-50.png)
+
+Aggregate some entities and relationship as a whole
 
 ## Design Issues
 
