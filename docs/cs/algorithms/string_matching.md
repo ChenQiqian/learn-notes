@@ -80,6 +80,7 @@ $\pi[q] = \max \{k \mid k < q \text{ and } P_k \sqsupset P_q\}$
     $$
     \pi[q] = \begin{cases}0, E_{q-1} = \emptyset\\1 + max\{k \in E_{q-1}\}, E_{q-1} \neq \emptyset\end{cases}
     $$
+    
     感性：如何扩展计算
 
 KMP正确性 模仿 FAM

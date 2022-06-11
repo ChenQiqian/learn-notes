@@ -129,6 +129,7 @@ nav:
     - 量子物理:
       - 波粒二象性: physics/quantum_physics/26.md
       - 薛定谔方程: physics/quantum_physics/27.md
+      - 原子中的电子: physics/quantum_physics/28.md
     - 电子学:
       - 数字电路: 
           - 组合逻辑电路: physics/digital_electronics/digital_electronics.md
