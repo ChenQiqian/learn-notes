@@ -82,12 +82,17 @@ nav:
       - GitHub: cs/tools/github/index.md
       - 正则表达式: cs/tools/reg/index.md
       - JetBrains: cs/tools/jetbrains/index.md
-  - 编程语言及开发工具:
+  - 编程与技术:
     - 简介: programming/index.md
+    - Node.js: programming/nodejs/index.md
     - Typescript: programming/ts/index.md
     - ANTLR: programming/antlr/index.md
     - CMake: programming/cmake/index.md
     - Thrift: programming/thrift/index.md
+    - Web 前端技术:
+      - 简介: programming/web/index.md
+      - HTML: programming/web/html.md
+    - Vue.js: programming/vuejs/index.md
   - 数学基础:
     - 简介: math/index.md
     - 数理逻辑:
