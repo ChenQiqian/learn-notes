@@ -66,7 +66,7 @@ Presenter 负责操控若干个 View
 2. npm 中安装 vue，在 nodejs 中引入，采用 webpack 打包后在 HTML 中引入
 3. 使用 vue-cli 的配套工具链条
 
-### 组件
+## 组件
 
 组件是 Javascript 中的对象，可以与 DOM  中的元素绑定。
 
@@ -100,7 +100,25 @@ app.component('my-component-name', {
 
 ![](https://v3.cn.vuejs.org/images/lifecycle.svg)
 
-#### 组件的属性
+### 组件的 Props
+
+```javascript
+props: ['title', 'likes', 'isPublished', 'commentIds', 'author']
+```
+
+```javascript
+props: {
+  title: String,
+  likes: Number,
+  isPublished: Boolean,
+  commentIds: Array,
+  author: Object,
+  callback: Function,
+  contactsPromise: Promise // 或任何其他构造函数
+}
+```
+
+### 组件的属性
 
 ```javascript
 {
@@ -140,14 +158,45 @@ app.component('my-component-name', {
         items(newItem, oldItem) {
             // ... 
         }
-
-    }
+    },
 }
 ```
 
-##### 计算属性
+### 组件模板
 
-### 模版的语法
+写在配置中
+
+```javascript
+    template: `
+        <button @click="count++">
+        You clicked me {{ count }} times.
+        </button>` // 字符串模板，简化，事实上更多用 .vue 单文件
+```
+
+#### 插槽
+
+```html
+<slot> Default Content </slot>
+```
+
+带名字的插槽：
+
+```html
+<slot name="footer"></slot>
+```
+
+使用：
+
+```html
+<template v-slot:header>
+<h1>Here might be a page title</h1>
+</template>
+<template #header>
+    <!-- test -->
+</template>
+```
+
+### 组件模版的语法
 
 #### 文本插值
 
@@ -198,18 +247,20 @@ app.component('my-component-name', {
 !!!note
     只能是 **单个** **表达式**，不能是语句（如 `var a = 1` ，如控制结构）。
 
-#### 指令（Directives）
+### 组件模版中的指令（Directives）
 
-##### 条件渲染
+#### 条件渲染
+
+!!!!note inline end
+    `v-if` 必须被绑定到“元素”上，可以套在 `<template> </template>` 上面。
 
 `v-show`：调整 display，更高的初始开销
 
 `v-if/v-else/v-else-if`：调整渲染出来的东西，更高的切换开销
 
-!!!!note inline end
-    `v-if` 必须被绑定到“元素”上，可以套在 `<template> </template>` 上面。
 
-##### 列表渲染
+
+#### 列表渲染
 
 `v-for`： 循环渲染
 
@@ -231,18 +282,20 @@ Vue.createApp({
 }).mount('#array-rendering')
 ```
 
+!!!note inline end
+    `v-if` 有比 `v-for` 更高的优先级，并且不推荐一起使用
+
 1. 可以遍历数组（？），可选的第二个参数: `(item, index)`
     1. 被包裹/监听的数组修改方法：push, pop, shift, unshift, splice, sort, reverse
     2. 其他被监听的数组替换方法：filter, concat, slice (比较高效，放心使用)
 2. 可以遍历一个对象所有的 property，可选的第二/三个参数 `(value, name, index)`
 
-!!!note inline end
-    `v-if` 有比 `v-for` 更高的优先级，并且不推荐一起使用
+
 
 !!!note
     可以搭配 `v-bind:key` 减少开销（就地更新），需要保证 key 唯一（且为字符串，数值）。
 
-##### 事件的绑定
+#### 事件的绑定
 
 可以让事件与一系列东西绑定。
 
@@ -250,6 +303,8 @@ Vue.createApp({
 
 + 可以直接写 JavaScript 表达式/内联 `counter += 1` `warn(...)`
 + 可以写多个事件
+
+
 ```html
 <!-- 这两个 one() 和 two() 将执行按钮点击事件 -->
 <button @click="one($event), two($event)">
@@ -307,5 +362,47 @@ Vue.createApp({
 <button @click.ctrl.exact="onCtrlClick">A</button>
 ```
 
-!!!note inline end
+!!!note
     使用修饰符时，顺序很重要；相应的代码会以同样的顺序产生。
+
+#### 表单的绑定
+
+`v-model`：在表单 `<input>`、`<textarea>` 及 `<select>` 元素上创建双向数据绑定。
+
+#### 自定义指令
+
+```javascript
+const app = Vue.createApp({})
+// 注册一个全局自定义指令 `v-focus`
+app.directive('focus', {
+  // 当被绑定的元素挂载到 DOM 中时……
+  mounted(el) {
+    // 聚焦元素
+    el.focus()
+  }
+})
+```
+```javascript
+// 局部注册
+directives: {
+  focus: {
+    // 指令的定义
+    mounted(el) {
+      el.focus()
+    }
+  }
+}
+```
+
+使用
+
+```html
+<input v-focus />
+```
+
+## 事件处理/沟通
+
+父子组件
+
+跨层级
+

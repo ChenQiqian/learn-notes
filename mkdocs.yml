@@ -92,7 +92,9 @@ nav:
     - Web 前端技术:
       - 简介: programming/web/index.md
       - HTML: programming/web/html.md
-    - Vue.js: programming/vuejs/index.md
+    - Vue.js: 
+      - 简介: programming/vuejs/index.md
+      - 开发工具: programming/vuejs/tools.md
   - 数学基础:
     - 简介: math/index.md
     - 数理逻辑:
